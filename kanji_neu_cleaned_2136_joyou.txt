@@ -1,0 +1,2136 @@
+1|一|ひと。つ|いち|eins
+1|七|なな,なな。つ|しち|sieben
+1|三|み。つ|さん|drei
+1|上|あ。がる,のぼ。る,うえ|じょ|aufsteigen,erhöhen,oben
+1|下|さ。がる,した,くだ。さる|げ,か|absteigen,unten,geben
+1|中|なか|ちゅう|Mitte,innerhalb,ganz,durchgehend
+1|九|ここの。つ|く,きゅう|neun
+1|二|ふた。つ|に|zwei
+1|五|いつ。つ|ご|fünf
+1|人|ひと|にん,じん|Mensch
+1|休|やす。む,やす。める|きゅう|ausruhen,ruhen lassen
+1|先|さき|せん|vorher,Zukunft,Bestimmungsort
+1|入|はい。る,い。れる|にゅう|hineingehen,hineinlegen
+1|八|や。つ,やっ。つ|はち|acht
+1|六|むっ。つ|ろく|sechs
+1|円||えん|Kreis,Yen
+1|出|で。る,だ。す|しゅつ|hinausgehen,herausnehmen
+1|力|ちから|りょく,りき|Kraft
+1|十|とお|じゅう|zehn
+1|千|ち|せん|tausend
+1|口|くち|く,こう|Mund,Öffnung
+1|右|みぎ|う,ゆう|rechts
+1|名|な|めい,みょう|Name,bekannt
+1|四|よん,よっつ|し|vier
+1|土|つち|ど,と|Erde,Boden
+1|夕|ゆう|せき|Abend
+1|大|おお。きい|だい,たい|groß
+1|天|あめ,あま|てん|Himmel,natürlich
+1|女|おんな|にょ,じょ|Frau,weiblich
+1|子|こ|す,し|Kind
+1|字|あざ|じ|Schriftzeichen
+1|学|まな。ぶ|がく|studieren,lernen
+1|小|ちい。さい,こ|しょう|klein
+1|山|やま|さん|Berg
+1|川|かわ|せん|Fluss
+1|左|ひだり|さ|links
+1|年|とし|ねん|Jahr
+1|手|て|しゅう|Hand
+1|文|ふみ|ぶん,もん|Brief,Text,Literatur
+1|日|ひ,か|じつ,にち|Tag,Sonne
+1|早|はや。い,そう||früh,schnell
+1|月|つき|げつ,がつ|Mond,Monat
+1|木|き|ぼく,もく|Baum
+1|本|もと|ほん|Hauptteil,Ursprung,Buch,Zählsuffix für röhrenförmige Dinge
+1|村|むら|そん|Dorf
+1|林|はやし|りん|Forst,Wäldchen
+1|校||こう|Schule
+1|森|もり|しん|Wald
+1|正|ただ。す,まさ|せい,しょう|berichtigen,richtig,regulär,echt
+1|気|き|け|Geist,Stimmung
+1|水|みず|すい|Wasser
+1|火|ひ|か|Feuer
+1|犬|いぬ|けん|Hund
+1|玉|たま|ぎょく|Edelstein
+1|王||おう|König
+1|生|い。きる,い。かす,う。まれる,う。む|せい,しょう|leben,-lassen,gebären,wachsen
+1|田|た|でん|Reisfeld
+1|男|おとこ|だん,なん|Mann
+1|町|まち|ちょう|Stadtviertel
+1|白|しろ,しろ。い|びゃく,はく|weiß
+1|百||ひゃく|hundert
+1|目|め|もく|Auge
+1|石|いし|せき|Stein
+1|空|あ。く,あ。ける,から,そら|くう|frei werden,leer,freimachen,Himmel
+1|立|た。つ,た。てる|りつ,りゅう|stehen,aufstellen
+1|竹|たけ|ちく|Bambus
+1|糸|いと|し|Faden
+1|耳|みみ|じ|Ohr
+1|花|はな|か|Blume,Blüte
+1|草|くさ|そう|(Un)kraut,Gras
+1|虫|むし|ちゅう|Insekt
+1|見|み。る,み。せる|けん|sehen,zeigen
+1|貝||かい|Muschel,Geld
+1|赤|あか。らむ,あか,あか。い|せき,しゃく|erröten,rot
+1|足|た。りる,た。す,あし|そく|genügen,Fuß,Bein
+1|車|くるま|しゃ|Wagen,Rad
+1|金|かね|きん,こん|Metall,Geld,Gold
+1|雨|あめ,あま|う|Regen
+1|青|あお,あお。い|せい|blau,unreif,jung
+1|音|おと,ね|おん|Ton
+2|万||まん,ばん|zehntausend
+2|丸|まる。める,まる,まる。い|がん|rund
+2|交|ま。じる,ま。ぜる,か。う,か。わす|こう|mischen,austauschen,verkehren
+2|京||きょう,けい|Hauptstadt
+2|今|いま|こん,きん|jetzt,in dieser Zeit
+2|会|あ。う|かい,え|treffen,Gesellschaft
+2|体|からだ|たい|Körper
+2|何|なに|か|was? Welcher? wieviel?
+2|作|つく。る|さく,さ|anfertigen
+2|元|もと|げん,がん|Ursache,gesund,Anfang
+2|兄|あに|けい|älterer Bruder
+2|光|ひか。る,ひかり|こう|scheinen,Licht
+2|公|おおやけ|こう|öffentlich,offiziell
+2|内|うち|ない|innen
+2|冬|ふゆ|とう|Winter
+2|刀|かたな|とう|Messer
+2|分|わ。ける,わ。かる|ぶ,ぶん,ふん|teilen,verstehen,Teil,Minute
+2|切|き。れる,き。る|せつ|schneiden
+2|前|まえ|ぜん|vorher,vorn
+2|北|きた|ほく|Norden
+2|午||ご|Mittag
+2|半|なか。ば|はん|Hälfte
+2|南|みなみ|なん|Süden
+2|原|はら|げん|Feld,Ursprung
+2|友|とも|ゆう|Freund
+2|古|ふる。い|こ|alt
+2|台||だい,たい|Gestell,Sockel,Größenordnung
+2|合|あ。う,あ。わす|ごう,が|(an)passen
+2|同|おな。じ|おづ|gleich
+2|回|まわ。る,まわ。す|かい|drehen,x-Mal
+2|図|はか。る||planen
+2|国|くに|こく|Land
+2|園|その|えん|Park
+2|地||じ,ち|Boden,Ort,regional
+2|場|ば|じょう|Standort,Stelle
+2|声|こえ|せい|Stimme
+2|売|う。る|ばい|verkaufen
+2|夏|なつ|か|Sommer
+2|外|はず。れる,はず。す,そと|がい,げ|außerhalb sein,(dr)außen,ander(e,es,er)
+2|多|おお。い|た|viel,viele
+2|夜|よる,ろ|や|Nacht
+2|太|ふと。る,ふと。い|たい,た|fett (werden),dick
+2|妹|いもうと|まい|jüngere Schwester
+2|姉|あね|し|ältere Schwester
+2|室||しつ|Zimmer
+2|家|いえ,や|か,け|Heim,Haus,Fachmann
+2|寺|てら|じ|Tempel
+2|少|すこ。し,すく。ない|しょう|(ein) wenig
+2|岩|いわ|がん|Felsen
+2|工||こう,く|Handwerk
+2|市|いち|し|Markt,Stadt
+2|帰|かえ。る,かえ。す|き|zurückkehren,entlassen
+2|広|ひろ。がる,ひろ。げる,ひろ。い|こう|verbreitern,breit
+2|店|みせ|てん|Laden,Geschäft
+2|弓|ゆみ|きゅう|Bogen
+2|引|ひ。ける,ひ。く|いん|ziehen,zurückgezogen
+2|弟|おとうと|てい|jüngerer Bruder
+2|弱|よわ。る,よわ。い|じゃく|schwach werden,schwach
+2|強|つよ。い|きょう,ごう|stark
+2|当|あ。たる,あ。てる|とう|zutreffen,vorhergenannt
+2|形|かたち,かた|けい,ぎょう|Form
+2|後|あと,うし。ろ|ご,こう|danach,später,hinten
+2|心|こころ|しん|Herz
+2|思|おも。う,し||denken
+2|戸|と|こ|Tür
+2|才||さい|Talent,Genie
+2|教|おそ。わる,おし。える|きょう|belehrt werden,(be)lehren
+2|数|かぞ。える,かず|すう|zählen,Zahl
+2|新|あたら。しい,あら。た|しん|neu
+2|方|かた|ほう|Person,Richtung
+2|明|あか。るい,あき。らか|めい,みょう|hell,klar,deutlich,der/die/das folgende
+2|星|ほし|せい,しょう|Stern
+2|春|はる|しゅん|Frühling
+2|昼|ひる|ちゅう|tagsüber,Mittag
+2|時|とき|じ|Zeit,Stunde
+2|晴|は。れる,は。らす|せい|klar werden/machen,blauer Himmel
+2|曜||よう|Wochentag
+2|書|か。く|しょ|schreiben
+2|朝|あさ|ちょう|Morgen
+2|来|く。る,きた。る|らい|kommen,führen zu
+2|東|ひがし|とう|Osten
+2|楽|たの。しい|らく,がく|fröhlich,bequem,Musik
+2|歌|うた。う,うた|か|singen,Lied
+2|止||と。まる,と。め|る
+2|歩|ある。く,あゆ。む|ほ,ぶ|(zu Fuß) gehen,laufen
+2|母|はは|ぼ|Mutter
+2|毎|まい||jeder,jeden,jedes
+2|毛|け|もう|Wolle
+2|池|いけ|ち|Teich
+2|汽||き|Dampf
+2|活||かつ|Leben,lebhaft
+2|海|うみ|かい|Meer
+2|点||てん|Punkt
+2|父|ちち,ふ||Vater
+2|牛|うし|ぎゅう|Kuh
+2|理||り|Logik,Vernunft
+2|用|もち。いる|よう|benutzen,Geschäft,Angelegenheit
+2|画||が,かく|Bild,Strich
+2|番||ばん|Nummer,Wache
+2|直|なお。る,なお。す|ちょく,じき|reparieren,korrigieren,direkt
+2|矢|や|し|Pfeil
+2|知|し。る|ち|wissen,kennen
+2|社|やしろ|しゃ|Shinto-Schrein
+2|秋|あき|しゅう|Herbst
+2|科||か|Fachabteilung
+2|答|こた。える,こた。え|とう|antworten,Antwort
+2|算||さん|rechnen
+2|米|こめ|べい,まい|Reis,Reiskorn,Amerika
+2|紙|かみ|し|Papier
+2|細|ほそ。い,こま。かい|さい|dünn,schmal
+2|組|く。む|そ|zusammenbinden,Gruppen
+2|絵||かい,え|Bild
+2|線||せん|Linie
+2|羽|は,はね|う|Feder,Flügel
+2|考|かんが。える|こう|denken
+2|聞|き。く|もん,ぶん|hören,fragen
+2|肉||にく|Fleisch
+2|自|みずか。ら|じ,し|selbst
+2|船|ふね|せん|Schiff
+2|色|いろ|しょく,ひき|Farbe,Sex
+2|茶||ちゃ,さ|Tee
+2|行|ゆ。く,おこな。う|こう,ぎょう|gehen,tun
+2|西|にし|せい,さい|Westen
+2|親|した。しい,おや|しん|vertraut,Eltern
+2|角|かど,つの|かく|Ecke,Winkel,Horn,x-Eck
+2|言|い。う,こと|ごん,げん|sagen,Worte
+2|計|る,はか。る,はか。らう|けい|messen,sorgen für
+2|記|しる。す|き|aufschreiben
+2|話|はな。す|わ|sprechen
+2|語|かた。る|ご|sprechen,erzählen
+2|読|よ。む|どく|lesen
+2|谷|たに|こく|Tal
+2|買|か。う|ばい|kaufen
+2|走|はし。る|そう|laufen,rennen
+2|近|ちか。い|きん|nahe
+2|通|とお。る,とお。す,かよ。う|つう|passieren,durchlassen,verkehren
+2|週||しゅう|Woche
+2|道|みち|どう|Weg
+2|遠|とお。い|えん|weit,fern
+2|里|さと|り|Heimat(dorf)
+2|野|の|や|Feld
+2|長|なが。い|ちょう|lang
+2|門|かど|もん|Tor
+2|間|あいだ,ま|けん,かん|Zeitraum,Zwischenraum
+2|雪|ゆき|せつ|Schnee
+2|雲|くも|うん|Wolke
+2|電||でん|Elektrizität
+2|頭|あたま,かしら|とう,ず|Kopf
+2|顔|かお|がん|Gesicht
+2|風|かぜ|ふう|Wind
+2|食|た。べる,く。う|しょく|essen
+2|首|くび|しゅう|Hals,Kopf
+2|馬|うま|ば|Pferd
+2|高|たか。い|こう|hoch
+2|魚|さかな|ぎょう|Fisch
+2|鳥|とり|ちょう|Vogel
+2|鳴|る,な。る,な。らす,な。く|めい|ertönen,singen,zwitschern
+2|麦|むぎ|ばく|Getreide
+2|黄|き|こう,おう|gelb
+2|黒|くろ,くろ。い|こく|schwarz
+3|丁||ちょう,てい|Häuserblock (ca. 109m)
+3|世|よ|せい,せ|Zeitalter
+3|両||りょう|beide
+3|主|ぬし,おも|しゅ|Hauptperson,Haupt-
+3|乗|の。る,の。せる|じょう|einsteigen,fahren
+3|予||よ|vorher,im Voraus
+3|事|こと|じ|Sache
+3|仕|つか。える|し|dienen
+3|他||た|etwas anderes,ein anderer
+3|代|か。わる,か。える|だい,たい|ersetzen,vertreten,Generation
+3|住|す。む|じゅう|wohnen
+3|使|つか。う|し|benutzen,Bote
+3|係|かか。る,かかり|けい|betreffen,der Zuständige
+3|倍||ばい|doppelt,mehrfach
+3|全|まった。く|ぜん|ganz,gesamt
+3|具||ぐ|Werkzeug
+3|写|うつ。る,うつ。す|しゃ|aufgenommen werden,kopieren,fotografieren
+3|列||れつ|Reihe
+3|助|たす。かる,たす。ける|じょ|gerettet werden,helfen
+3|勉||べん|Fleiß
+3|動|うご。く,うご。かす|どお|bewegen
+3|勝|か。つ|しょう|gewinnen,übertreffen
+3|化|ば。ける,ば。かす|か,け|sich verwandeln,jemanden verwandeln
+3|区||く|Einteilung,städtischer Bezirk
+3|医||い|Gesundheitskunde
+3|去|さ。る|きょう,こ|vergehen,verlassen
+3|反|そ。る,そ。らす|はん|biegen,Gegen,Anti-
+3|取|と。る|しゅ|nehmen
+3|受|う。ける,う。かる|じゅ|erhalten,(Prüfung) bestehen
+3|号||ごう|Nummer
+3|向|む。く,む。ける,む。こう|こう|ausgerichtet sein,wenden an,die andere Seite
+3|君|きみ|くん|Du,informeller Namenssuffix
+3|味|あじ。わう,あじ|み|Geschmack genießen,Geschmack
+3|命|いのち|めい,みょう|Leben,Schicksal
+3|和|やわら。ぐ,やわら。げる,なご。む|わ|besänftigen,friedlich werden,japanisch
+3|品|しな|ひん|Ware
+3|員||いん|Mitglied,Mitarbeiter
+3|商|あきな。う|しょう|Handel treiben
+3|問|と。う|もん|fragen
+3|坂|さか|はん|Abhang
+3|央|おお||Zentrum
+3|始|はじ。まる,はじ。める|し|anfangen
+3|委||い|anvertrauen
+3|守|まも。る|しゅう|bewachen,beschützen
+3|安|やす。い|あん|billig,friedlich,entsptannt
+3|定|さだ。まる,さだ。める|てい,じょう|festsetzen,bestimmt,regulär
+3|実|みのる,み|じつ|Früchte tragen,Frucht,Wirklichkeit
+3|客||きゃく,かく|Gast
+3|宮|みや|ぐう,きゅう|Schrein,Palast
+3|宿|やど。る,やど。す,やど|しゅく|beherbergen,Unterkunft
+3|寒|さむ。い|かん|kalt
+3|対||たい,つい|Gegen-,wider,Paar
+3|局||きょく|Amt
+3|屋|や|おく|Händler,Laden
+3|岸|きし|がん|Ufer
+3|島|しま|とう|Insel
+3|州|しゅう||Erdteil,Landesteil
+3|帳||ちょう|Vorhang,Notiizbuch
+3|平|ひら,たい。ら|へい,びょう|flach,gewöhnlich
+3|幸|さいわ。い,しあわ。せ,さち|こう|Glück
+3|度|たび|ど|Grad,Maß
+3|庫||こ|Garage,Lagerhaus
+3|庭|にわ|てい|Garten
+3|式||しき|Stil,Form
+3|役||やく,えき|Dienst,Rolle
+3|待|ま。つ|たい|warten,Erwartung
+3|急|いそ。ぐ|きゅう|eilen
+3|息|いき|そく|Atem,Sohn
+3|悪|わる。い|あく,お|schlecht
+3|悲|かな。しむ,かな。しい|ひ|traurig sein
+3|想||そう|Idee
+3|意||い|Wille
+3|感||かん|Empfindung
+3|所|ところ|しょ|Ort,Stelle
+3|打|う。つ|だ|schlagen
+3|投|な。げる|とう|werfen
+3|拾|ひろ。う|しゅう,じゅう|finden,aufheben,Aufzählungspunkt vglb. “römisch zehn”
+3|持|も。つ|じ|haben,tragen
+3|指|さ。す,ゆび|し|zeigen,Finger
+3|放|はな。つ,はな。れる,はな。す|ほう|loslassen,sich befreien
+3|整|ととの。う,ととの。える|せい|ordnen
+3|旅|たび|りょ|Reise
+3|族||ぞく|Familie
+3|昔|むかし|せき|früher
+3|昭|しょう||klar,hell
+3|暑|あつ。い|しょ|heiß,Hitze
+3|暗|くら。い|あん|dunkel
+3|曲|まが。る,まげ。る|きょく|beugen,biegen,Krümmung,Melodie
+3|有|あ。る|ゆう,う|sein,haben
+3|服||ふく|Kleidung
+3|期||き|Periode
+3|板|いた|はん,ばん|Brett
+3|柱|はしら|ちゅう|Pfeiler
+3|根|ね|こん|Wurzel
+3|植|う。わる,う。える|しょく|pflanzen
+3|業|わざ|ぎょう,ごう|Handlung,Geschäft
+3|様|さま|よう|(höfliche Anrede),Zustand
+3|横|よこ|おう|Seite
+3|橋|はし|きょう|Brücke
+3|次|つ。ぐ,つぎ|じ,し|der/die/das nächste
+3|歯|は|し|Zähne
+3|死|し。ぬ||sterben
+3|氷|こお。る,ひ|ひょう|gefrieren,Eis
+3|決|き。まる,き。める|けつ|entscheiden
+3|油|あぶら|ゆ|Öl
+3|波|なみ|は|Welle
+3|注|そそ。ぐ|ちゅう|gießen,aufmerksam
+3|泳|およ。ぐ|えい|schwimmen
+3|洋||よう|Ozean
+3|流|なが。れる,なが。す|りゅう|strömen,fließen
+3|消|き。える,け。す|しょう|auslöschen
+3|深|ふか。い|しん|tief
+3|温|あたた。まる,あたた。める,あたた。かい|おん|erwärmen,warm
+3|港|みなと|こう|Hafen
+3|湖|みずうみ|こ|See
+3|湯||ゆ|heißes Wasser
+3|漢||かん|China (Han-Dynastie),Kerl
+3|炭|すみ|たん|Kohle
+3|物|もの|ぶつ,もつ|Ding,Sache
+3|球|たま|きゅう|Ball,Kugel
+3|由|よし|ゆ,ゆう|Grund,Ursache
+3|申|もう。す|しん|Höflichkeitsform für “sagen”,Bericht
+3|界||かい|Welt,Gebiet
+3|畑|はた,はたけ||Acker
+3|病|や。む,やまい|びょう,へい|krank sein,Krankheit
+3|発||はつ,ほつ|entstehen,erscheinen
+3|登|のぼ。る|とう,と|hochklettern,hochsteigen
+3|皮|かわ|ひ|Haut,Fell
+3|皿|さら||Teller
+3|相|あい|そう,しょう|gegenseitig,Minister
+3|県||けん|Präfektur
+3|真|ま|しん|Wahrheit
+3|着|き。る,き。せる,つ。く,つ。ける|ちゃく|(sich) anziehen,ankommen
+3|短|みじか。い|たん|kurz
+3|研|と。ぐ|けん|schärfen,erforschen
+3|礼||れい,らい|Höflichkeit,Etikett
+3|神|かみ|しん,じん|Gott
+3|祭|まつ。る,まつ。り|さい|als Got verehren,Fest
+3|福||ふく|Glück
+3|秒||びょう|Sekunde
+3|究|きわ。めぬ|きゅう|erforschen
+3|章||しょう|Satz,Kapitel
+3|童|わらべ|どう|kleines Kind
+3|笛|ふえ|てき|Pfeife,Flöte
+3|第||だい|Präfix für Ordnungszahlen
+3|筆|ふで|ひつ|Pinsel
+3|等|ひと。しい|とう|gleich,Klasse
+3|箱|はこ||Kiste
+3|級||きゅう|Rang
+3|終|おわ。る,お。える|しゅう|(be)enden
+3|緑|みどり|りょく|grün
+3|練|ね。る|れん|kneten,Übung
+3|羊|ひつじ|よう|Schaf
+3|美|うつく。しい|び|schön
+3|習|なら。う|しゅう|lernen
+3|者|もの|しゃ|(arbeitende) Person
+3|育|そだ。つ,そだ。てる|いく|aufwachsen,aufziehen
+3|苦|くる。しむ,くる。しめる,にが。い|く|quälen,leiden,bitter
+3|荷|に|か|Gepäck
+3|落|お。ちる,お。とす|らく|fallen,fallen lassen
+3|葉|は|よう|Blatt
+3|薬|くすり|やく|Medizin
+3|血|ち|けつ|Blut
+3|表|あらわ。れる,あらわ。す,おもて|ひょう|sich ausdrücken,Oberfläche,Schaubild
+3|詩||し|Gedicht
+3|調|しら。べる|ちょう|untersuchen,vorbereiten,gleichlautend
+3|談|だん||Unterhaltung
+3|豆|まめ|とう|Bohne,Miniatur-
+3|負|ま。ける,ま。かす|ふ|unterliegen,besiegen
+3|起|お。きる,お。こす,お。こる|き|aufstehen,aufwecken,passieren
+3|路|じ|ろ|Straße,Weg
+3|身|み|しん|Körper,sich selbst
+3|転|ころ。がる,ころ。がす,ころ。ぶ|てん|rollen,hinfallen
+3|軽|かる。い|けい|leicht,unbeladen
+3|農||のう|Landwirtschaft
+3|返|かえ。る,かえ。す|へん|zurückkehren,zurückgeben
+3|追|お。う|つい|verfolgen
+3|送|おく。る|そう|schicken
+3|速|はや。い,すみ。やか|そく|schnell,sofortig
+3|進|すす。む,すす。める|しん|vorwärts gehen,befördern,Fortschritt
+3|遊|あそ。ぶ|ゆう,ゆ|spielen,Spaß machen
+3|運|はこ。ぶ|うん|transportieren
+3|部||ぶ|Teil
+3|都|みやこ|と,つ|Hauptstadt
+3|配|くば。る|はい|verteilen
+3|酒|さけ|しゅう|Reiswein,Sake
+3|重|かさ。なる,かさ。ねる,おも。い|じゅう,ちょう|aufeinander (-legen),schwer,x-fach
+3|鉄||てつ|Eisen
+3|銀||ぎん|Silber
+3|開|ひら。く|かい|öffnen
+3|院||いん|Institut
+3|陽||よう|Sonne,Positiv
+3|階||かい|Stockwerk
+3|集|あつ。まる,あつ。める,つど。う|しゅう|sich versammeln,sammeln
+3|面|おもて,つら|めん|Gesicht,Oberfläche
+3|題||だい|Thema
+3|飲|の。む|いん|trinken
+3|館||かん|Halle,Gebäude
+3|駅||えき|Bahnhof
+3|鼻|はな|び|Nase
+4|不||ふ,ぶ|un-,Negation des Zustands
+4|争|あらそ。う|そう|sich streiten
+4|井|い|せい|Brunnen
+4|付|つ。く,つ。ける|ふ|haften,befestigen
+4|令||れい|Befehl
+4|以||い|Steigerungspräfix
+4|仲|なか|ちゅう|zwischenmenschliche Beziehung,Vermittlung
+4|伝|つた。わる,つた。える|でん|übermitteln,überliefern
+4|位|くらい|い|Rang
+4|低|ひく。い|てい|niedrig
+4|佐||さ|helfen
+4|例|たと。える|れい|vergleichen,Beispiel,Brauch
+4|便|たよ。り|べん,びん|Nachricht,Bequemlichkeit,Post
+4|信||しん|Glaube,Vertrauen
+4|倉|くら|そう|Speisekammer,Speicher
+4|候||こう|Klima,Kandidat
+4|借|かり。る|しゃく|sich etwas ausleihen
+4|健|すこ。やか|かん|gesund
+4|側|かわ|そく|Seite
+4|働|はたら。く|どお|arbeiten
+4|億||おく,100|Millionen
+4|兆|きざ。す,きざ。し|ちょう|Vor-,Anzeichen,Billion
+4|児||に,じ|Säugling
+4|共|とも|きょう|bride,zusammen
+4|兵||ひょう,へい|Soldat
+4|典||てん|Gesetzbuch,Urtext
+4|冷|ひ。える,ひ。やす,つめ。たい|れい|kühlen,kalt
+4|初|はじ。め,はつ|しょ|Antrag,erstmalig
+4|別|わか。れる|べつ|(sich) trennen,besonders,anders
+4|利|き。く|り|wirken,Ertrag,Profit
+4|刷|す。る|さつ|drucken
+4|副||ふく|Assistent,Vize-
+4|功||こう|Verdienst,Erfolg
+4|加|くわ。らう,かわ。える|か|hinzufügen
+4|努|つと。める|ど|sich anstrengen
+4|労||ろう|Mühe,Arbeit
+4|勇|いさ。む|ゆう|mutig sein,tapfer
+4|包|つつ。む|ほう|einwickeln
+4|卒||そつ|(Schul)Abschluss
+4|協||きょう|Zusammenarbeit
+4|単||たん|Einzahl,einfach
+4|博||はく|Spezialist,umfassend
+4|印|しるし|いん|Zeichen,Siegel
+4|参|まい。る|さん|jemanden aufsuchen,Aufzählungspunkt vglb. “römisch drei”
+4|司||し|verwalten
+4|各|おのおの|かく|jeder,jedes,jede
+4|周|まわ。り|しゅう|Umgebung,Umfang
+4|唱|とな。える|しょう|vortragen
+4|器|うつわ|き|Gerät,Gefäß
+4|固|かた。い,こ||hart
+4|城|しろ|じょう|Burg
+4|塩|しお|えん|Salz
+4|変|か。わる,か。える|へん|sich verändern
+4|夫|おっと|ふう,ふ|Ehemann,Geschäftsmann
+4|失|うしな。う|しつ|verlieren
+4|好|す。く,この。む|こう|mögen,gern haben
+4|季||き|Jahreszeit
+4|孫|まご|そん|Enkel
+4|完||かん|Vollendung
+4|官||かん|Beamter,Behörde
+4|害||がい|Schaden
+4|富|と。む|ふ|reich sein,Reichtum
+4|察||さつ|Beurteilung,Vermutung
+4|岐||き|Weggabelung
+4|崎|さき||Kap
+4|巣|す|そう|Nest
+4|差|さ。す|さ|eingießen,Unterschied
+4|希||き|Knappheit
+4|席||せき|Sitz
+4|帯|お。びる|たい|erhalten,Zone,Gürtel
+4|底|そこ|てい|Boden
+4|府||ふ|Regierungssitz
+4|康||こう|in Frieden und Gesundheit
+4|建|た。つ,た。てる|けん|erbaut werden,bauen
+4|径||けい|Durchmesser,Pfad
+4|徒||と|Junior,Begleiter
+4|徳||とく|Tugend
+4|必|かなら。ず|ひつ|gewiß,sicherlich
+4|念||ねん|besondere Aufmerksamkeit
+4|愛||あい|Liebe
+4|成|な。る,な。す|せい|werden
+4|戦|たたか。う,いくさ|せん|kämpfen,Krieg
+4|折|おれ。る,お。る|せつ|umbiegen,brechen
+4|挙|あ。がる,あ。げる|きょ|aufzählen,festnehmen
+4|改|あらた。まる,あらた。める|かい|erneuert werden,reformieren
+4|敗|やぶ。れる|はい|besiegt werden
+4|散|ち。る,ち。らす|さん|sich zerstreuen,streuen
+4|料||りょう|Stoff,Gebühr
+4|旗|はた|き|Flagge
+4|昨||さく|gestern
+4|景||けい|Aussicht
+4|最|もっと。も|さい|am meisten,äußerst
+4|望|のぞ。む|ぼう,もう|wünschen
+4|未||み|noch nicht
+4|末|すえ|まつ,ばつ|Ende
+4|札|ふだ|さつ|(Bank)Note
+4|材||ざい|Stoff
+4|束|たば|そく|Bündel
+4|松|まつ|しょう|Kiefer
+4|果|は。てる,は。たす|か|vollenden,Ergebnis,Fruch
+4|栄|さか。える|えい|gedeihen,Ruhm
+4|案||あん|Plan
+4|梅|うめ|ばい|Pflaumen(baum)
+4|械||かい|(einfache) Maschine
+4|極|きわ。まる,きわ。める|きょく|zum Äußersten gehen,Endpunkt
+4|標||ひょう|Wegweiser
+4|機||き|(komplizierte) Maschine,Gelegenheit
+4|欠|か。ける,か。く|けつ|fehlen
+4|残|のこ。る,のこ。す|ざん|übrigbleiben,übriglassen
+4|氏|うじ|し|Höflichkeitssuffix für Familiennamen
+4|民|たみ|みん|Volk
+4|求|もと。める|きゅう|fordern,verlangen
+4|沖|おき|ちゅう|hohe See
+4|治|おさ。まる,おさ。める,なお。る,なお。す|じ,ち|regeln,heilen,Regierung
+4|法||ほう,は|Gesetz,Methode
+4|泣|な。く|きゅう|weinen
+4|浅|あさ。い|せん|seicht,flach
+4|浴|あ。びる,あ。びせる|よく|baden
+4|清|きよ。い|せい|nein
+4|満|み。ちる,み。たす|まん|voll werden,füllen
+4|滋||じ|reichlich
+4|漁||ぎょ,りょう|Fischfang
+4|潟|かた||Strand
+4|灯|ひ|とう|Lampe
+4|無|な。い|む,ぶ|nicht sein,Negation der Existenz
+4|然||ぜん,ねん|Art und Weise,Sache
+4|焼|や。ける,や。く|しょう|braten
+4|照|て。る,て。らす|しょう|beleuchten
+4|熱|あつ。い|ねつ|heiß,Fieber
+4|牧|まき|ぼく|Weide
+4|特||とく|Sonder-,besonders
+4|産|う。まれる,う。む|さん|geboren werden,gebären,Produktion
+4|的|まと|てき|Ziel
+4|省|かえり。みる,はぶ。く|せい,しょう|zurückdenken,weglassen,Ministerium
+4|祝|いわ。う|しゅく|feiern,gratulieren
+4|票||ひょう|(Stimm-)Zettel
+4|種|たね|しゅ|Samen,Art
+4|積|つ。もる,つ。む|せき|anhäufen
+4|競|きそ。う,せ。る|きょう,けい|sich mitbewerben,konkurrieren
+4|笑|わら。う,え。む|しょう|lachen,lächeln
+4|管|くだ|かん|Rohr,Röhre
+4|節|ふし|せつ|Segment,Teil einer Serie
+4|約||やく|ungefähr,Versprechen
+4|結|むす。ぶ,ゆ。ぶ|けつ|binden,vereinbaren,frisieren
+4|給||きゅう|versorgen,Gehalt
+4|続|つず。く,つず。ける|ぞく|fortdauern,fortsetzen
+4|縄|なわ|じょう|Seil
+4|置|お。く|ち,し|(hin)stellen,in eine Lage bringen
+4|群|む。れる,む。れ|ぐん|sich versammeln,(Schaf)herde
+4|老|お。いる,ふ。ける|ろう|altern,alt
+4|臣||しん,じん|Minister,Untertan
+4|良|よ。い|りょう|gut
+4|芸||げい|Kunst
+4|芽|め|が|Keim,Knospe
+4|英||えい|brilliant,England
+4|菜|な|さい|Gemüse
+4|街|まち|がい|Geschäftsviertel,Straße
+4|衣|ころも|い|Kleidung
+4|要|い。る|よう|brauchen,Notwendigkeit
+4|覚|さ。める,さ。ます,おぼ。える|かく|aufwachen,sich merken
+4|観||かん|Sicht
+4|訓|くん||Belehrung
+4|試|こころ。みる,ため。す|し|probieren,versuchen
+4|説|と。く|せつ|erklären,überzeugen,Meinung
+4|課||か|Lektion,Abteilung
+4|議||ぎ|Beratung
+4|貨||か|Güter,Geld
+4|賀||が|Gratulation
+4|軍||ぐん|Armee
+4|輪|わ|りん|Rad,Ring
+4|辞|や。める|じ|zurücktreten,Rede
+4|辺|あた。り,べ|へん|Nähe,Umgebung
+4|連|つ。れる,つら。なる,つら。ねる|れん|jemanden mitnehmen,aneinander reihen
+4|達||たつ|erreichen
+4|選|えら。ぶ|せん|wählen
+4|郡||ぐん|Landkreis
+4|量|はか。る|りょう|wiegen,messen,Menge
+4|録||ろく|Aufzeichnung,Aufnahme
+4|鏡|かがみ|きょう|Spiegel
+4|関|せき|かん|angrenzen,zusammenhängen
+4|陸||りく|Festland
+4|隊||たい|Truppe,Gruppe
+4|静|しず。まる,しず。める,しず。か|せい|still werden,beruhigen,still
+4|順|じゅん||Reihenfolge
+4|願|ねが。う|がん|wünschen,Wunsch,Bitte
+4|類||るい|Art,Sorte
+4|飛|と。ぶ,と。ばす|ひ|fliegen,fliegen lassen
+4|飯|めし|はん|Mahlzeit,gekochter Reis
+4|養|やしな。う|よう|aufziehen
+4|香|かお。る,かお。り,か|こう|duften
+4|験||けん|Prüfung,Experiment
+5|久|ひさ。しい|きゅう|lange Zeit
+5|仏|ほとけ|ぶつ,ふつ|Buddha,Frankreich
+5|仮|かり|か|Annahme
+5|件||けん|Fall,Angelegenheit
+5|任|まか。す|にん|überlassen,Pflicht
+5|似|に。る|じ|ähneln
+5|余|あま。る,あま。す|よ|übrig sein,übriglassen,mehr als
+5|価|あたい|か|Preis
+5|保|たも。つ|ほ|bewahren,halten
+5|修|おさ。まる,おさ。める|しゅう|ausgebildet werden
+5|個||こ|individuell,Zählsuffix für einzelne Gegenstände
+5|停||てい|anhalten
+5|備|そな。わる,そな。える|び|besitzen,ausstatten,vorbereiten
+5|像||ぞう|Abbild,Statue
+5|再|ふたた。び|さい|Wieder-,nochmals
+5|刊||かん|Veröffentlichung,Zeitung
+5|判||はん,ばん|Urteil fällen
+5|制||せい|System
+5|則||そく|Regel
+5|効|き。く|こう|wirksam sein
+5|務|つと。める|む|arbeiten,die Pflicht erfüllen
+5|勢|いきお。い|せい|Tendenz,Macht
+5|厚|あつ。い|こう|dick,herzlich
+5|句||く|Phrase
+5|可||か|Möglichkeit,Zustimmung
+5|史||し|Geschichte
+5|告|つ。げる|こく|melden
+5|喜|よろこ。ぶ|き|sich (er)freuen
+5|営|いとな。む|えい|managen
+5|因|よ。る|いん|Ursache
+5|団||だん|Gruppe
+5|囲|かこ。む|い|einschließen,Wirkungskreis
+5|圧||あつ|Druck
+5|在|あ。る|ざい|sein,Aufenthaltsort
+5|均||きん|eben,gleich
+5|型|かた|けい|Modell,Typ
+5|基|もと|き|Grundlage
+5|堂||どう|Halle,Saal
+5|報|むく。いる|ほう|belohnen,Nachricht
+5|境|さかい|きょう|Grenze
+5|墓|はか|ぼ|Grab
+5|増|す,ま。す,ふ。える,ふ。やす|ぞう|vermehren,zunehmen
+5|士||し|Fachmann,Gelehrter
+5|夢|ゆめ|む|Traum
+5|妻|つま|さい|Ehefrau
+5|婦||ふ|Hausfrau
+5|容||よう|Form,Behälter
+5|寄|よ。る,よ。せる|き|sich nähern,vorbeischauen,näher bringen
+5|導|みちび。く|どう|leiten,führen
+5|居|い。る|きょう|sein,Wohnsitz haben
+5|属||ぞく|dazugehören
+5|布|ぬの|ふ|Leintuch
+5|師||し|Gelehrter
+5|常|つね|じょう|normal,fortwährend
+5|幹|みき|かん|(Baum)Stamm
+5|序||じょ|Vorwort
+5|弁||べん|Dialekt,Imbiß
+5|張|は。る|ちょう|aufspannen,ausbreiten
+5|往||おう|Hin- und Rückweg
+5|得|う。る,え。る|とく|gewinnen,Erwerb
+5|復||ふく|wiederholen
+5|志|こころざ。す|し|erzielen,Absicht
+5|応||おう|angemessene Antwort,Reaktion
+5|快|こころよ。い|かい|angenehm
+5|性||せい,しょう|Geschlecht,Art,Charakter
+5|情|なさ。け|じょう,せい|Mitgefühl
+5|態||たい|Einstellung,Zustand
+5|慣|な。れる,な。らす,かん||gewöhnen,gewöhnen lassen
+5|技|わざ|ぎ|Technik,Fähigkeit
+5|招|まね。く|しょう|einladen,herbeiwinken
+5|授|さず。かる,さず。ける|じゅ|(geschenkt) bekommen,schenken
+5|採|と。る|さい|pflücken,sammeln
+5|接|つ。ぐ|せつ|zusammenfügen,berühren
+5|提||てい|Vorschlag präsentieren
+5|損|そこ。なう,そこ。ねる|そん|Schaden zufügen,Verlust
+5|支|ささ。える|し|unterstützen
+5|政|まつりごと|せい,しょう|Verwaltung
+5|故|ゆえ|こ|deswegen,verstorben,vergangen
+5|救|すく。う|きゅう|retten
+5|断|ことわ。る,た。つ|だん|ablehnen,abschneiden,Entscheidung
+5|旧||きゅう|veraltet,alt,Ex-
+5|易|やさ。しい|えき,い|leicht,Handel
+5|暴|あば。れる,あば。く|ぼう|wüten,toben,offenlegen
+5|条||じょう|Paragraph,Artikel
+5|枝|えだ|し|Zweig
+5|査||さ|untersuchen
+5|格||かく|Statue,Norm
+5|桜|さっくら|おう|Kirschbaum
+5|検||けん|Untersuchung
+5|構|かま。える|こう|aufbauen
+5|武||ぶ,む|Militär
+5|歴||れき|(Ver)lauf der Zeit
+5|殺|ころ。す|さつ|morden
+5|毒||どく|Gift
+5|比|くら。べる|ひ|vergleichen
+5|永|なが。い|えい|ewig
+5|河|かわ|か|Fluß
+5|液||えき|Flüssigkeit
+5|混|ま。ざる,ま。ぜる|こん|mischen
+5|減|へ。る,へ。らす|げん|abnehmen,verringern
+5|測|はか。る|そく|messen
+5|準||じゅん|Niveau
+5|演||えん|Aufführung,Vorstellung
+5|潔|いさぎよ。い|けつ|tapfer,rein
+5|災|わざわ。い|さい|Katastrophe
+5|燃|も。える,も。やす|ねん|brennen
+5|版||はん|Druck,Verlag
+5|犯|おか。す|はん|ein Verbrechen begehen
+5|状||じょう|Zustand,Brief
+5|独|ひと。り|どく|allein,Deutschland
+5|率|ひき。いる|そつ,りつ|(an)führen,(Prozent)satz
+5|現|あらわ。れる,あらわ。す|げん|erscheinen,gegenwärtig
+5|留|と。まる,と。める|りゅう|festsitzen,bleiben,festsetzen,hinterlassen
+5|略||りゃく|Abkürzung,Strategie
+5|益||えき|Nutzen,Vorteil
+5|眼||がん|Auge
+5|破|やぶ。れる,やぶ。る|は|zerreißen
+5|確|たし。かめる,たし。か|かく|sich vergewissern,sicher
+5|示|しめ。す|じ,し|zeigen
+5|祖||そ|Vorfahre
+5|禁||きん|Verbot
+5|移|うつ。る,うつ。す|い|umziehen,jemanden versetzen
+5|程|ほど|てい|Grad,Ausmaß
+5|税||ぜい|Steuer
+5|築|きず。く|ちく|bauen
+5|粉|こな,こ|ふん|Pulver,Mehl
+5|精||せい,しょう|Vitalität,Geist
+5|紀||き|Bericht
+5|素||そ,す|Element,Ursprung
+5|経|へ。る|けい,きょう|vergehen (Zeit),Verlauf
+5|統||とう|beherrschend,alles,umfassend
+5|絶|た。つ,た。やす|ぜつ|aussterben,ausrotten
+5|綿|わた|めん|Baumwolle
+5|総||そう|General-,allgemein
+5|編|あ。む|へん|stricken
+5|績||せき|spinnen,Leistung
+5|織|お。る|しょく,しき|weben
+5|罪|つみ|ざい|Verbrechen
+5|義||ぎ|ggs. Verpflichtung,künstlich,Schwieger-
+5|耕|たがや。す|こう|etwas anbauen
+5|職||しょく|Beruf,Anstellung
+5|肥|こ。える,こ。やす|ひ|fett werden,Dünger
+5|能||のう|Begabung
+5|脈||みゃく|Vene,Ader
+5|興|おこ。る,おこ。す|こう,きょう|gedeihen,wiederbeleben,Interesse
+5|舎||しゃ|Hütte,Quartier
+5|航||こう|Seefahrt
+5|術||じゅつ|Technik
+5|衛||えい|beschützen
+5|製||せい|Herstellung
+5|複||ふく|doppelt
+5|規||き|Norm
+5|解|と。く|かい|((auf)lösen
+5|設|もう。ける|せつ|gründen,errichten
+5|許|ゆる。す|きょ|erlauben
+5|証||しょう|Beweis,Garantie
+5|評||ひょう|Kommentar
+5|講||こう|Vorlesung
+5|謝|あやま。る|しゃ|sich entschuldigen
+5|識||しき|Bewußtsein,Unterscheidung
+5|護||ご|verteidigen
+5|豊|ゆた。か|ほう|reichlich,üppig
+5|象||しょう,ぞう|Objekt,Elefant
+5|財||ざい|Finanz(vermögen)
+5|貧|まず。しい|ひん,びん|arm
+5|責|せ。める|せき|zur Rechenschaft ziehen,Verantwortung
+5|貯||ちょう|Ersparnisse
+5|貸|か。す|たい|verleihen,vermieten
+5|費|つい。やす|ひ|(Geld,Zeit,Mühe),aufwenden
+5|貿||ぼう|Handel
+5|資||し|Kapital
+5|賛||さん|Lob,Zustimmung
+5|賞||しょう|Auszeichnung,Preis
+5|質||しつ,しち|Qualität,Pfand
+5|輸||ゆ|transportieren
+5|述|の。べる|じゅつ|erwähnen
+5|迷|まよ。う|めい|sich verirren
+5|逆|さか。らう|ぎゃく|sich widersetzen,umgekehrt
+5|造|つく。る|ぞう|produzieren
+5|過|す。ぎる|か|überschreiten,zuviel sein
+5|適||てき|passend
+5|酸||さん|Säure
+5|鉱||こう|Erz
+5|銅||どう|Kupfer
+5|防|ふせ。ぐ|ぼう|verteidigen,schützen
+5|限|かぎ。る|げん|begrenzen,Limit
+5|険|けわ。しい|けん|schräg,steil
+5|際|きわ|さい|grenzüberschreitend,Gelegnheit,Zeit
+5|雑||ざつ,ぞう|Gemisch
+5|非||ひ|nicht,ungut,negative Bewertung
+5|領||りょう|regieren,herrschen
+5|額|ひたい|がく|Stirn,Summe
+5|飼|か。う|し|züchten
+6|並|なら。ぶ,なら。べる,なみ|へい|in einer Reihe stehen,aufreihen,normal
+6|乱|みだ。れる,みだ。す|らん|in Unordnung geraten
+6|乳|ちち,ち|にゅう|Muttermilch
+6|亡|な。い|ぼう|verstorben
+6|仁||じん|Wohltätigkeit,Humanität
+6|供|そな。える,とも|きょう|opfern,Begleiter
+6|俳||はい|Schauspieler
+6|俵|たわら|ひょう|Strohsack
+6|値|ね,あたい|ち|Preis,Wert
+6|傷|いた。む,いた。める,きず|しょう|schmerzen,Schmerzen zufügen
+6|優|すぐ。れる,やさ。しい|ゆう|übertreffen,freundlich,sanft
+6|党||とう|Partei
+6|冊||さつ,さく|Zählsuffix für Bücher,Bücherband
+6|処||しょ|Erledigung,Maßnahme
+6|券||けん|(Fahr)karte
+6|刻|きざ。む|ここ|schnitzen,Abschnitt
+6|割|わ。る,わ。れる,さ。く|かつ|trennen,zerbrechen,Verhältnis,10 Prozent
+6|創||そう|Schöpfung
+6|劇||げき|Drama
+6|勤|つと。まる,とお。める|きん|für eine Arbeit fähig sein,angestellt sein
+6|危|あぶ。ない,あや。うい|き|gefährlich
+6|卵|たまご|らん|Ei
+6|厳|きび。しい|げん|streng
+6|収|おさ。まる,おさ。める|しゅう|einnehmen
+6|后||こう|Kaiserin
+6|否|いな|ひ|Verneinung
+6|吸|す。う|きゅう|einsaugen,lutschen
+6|呼|よ。ぶ|こ|(zu sich) rufen
+6|善|よ。い|ぜん|gut,günstig
+6|困|こま。る|こん|in Verlegenheit sein
+6|垂|た。れる,た。らす|すい|herunterhängen,heruntertropfen
+6|域||いき|Bezirk,Region
+6|奏|かな。でる|そう|musizieren
+6|奮|ふる。う|ふん|erregt
+6|姿|すがた|し|Gestalt
+6|存||そん,ぞん|Existenz
+6|孝||こう|Kindespflicht
+6|宅||たく|Wohnung
+6|宇||う|Himmel,Weltraum
+6|宗||そう,しゅう|Religion
+6|宙||ちゅう|Weltraum
+6|宝|たから|ほう|Schatz
+6|宣||せん|Verkündigung
+6|密||みつ|Geheimnisse,Dichte
+6|寸||すん|drei Zentimeter,in der Nähe
+6|専|もっぱ。ら|せん|hauptsächlich,Spezial-
+6|射|い。る|しゃ|schießen
+6|将|しょう||Anführer,General
+6|尊|とうと。ぶ,たっと。い|そん|schätzen,hochverehrt
+6|就|つ。く,つ。ける|しゅう|einen Platz einnehmen
+6|尺||しゃく|Längenmaß (ca. 30cm)
+6|届|とど。く,とど。ける||ankommen,zuschicken
+6|展||てん|(sich) ausbreiten
+6|層||そう|Schicht
+6|己|おのれ|こ,き|selbst,Egoist
+6|巻|ま。く,まき|かん|aufrollen
+6|幕||まく,ばく|Bühnenvorhang,Akt
+6|干|ほ。す|かん|trocknen
+6|幼|おさな。い|よう|kindlich,Kleinkind
+6|庁||ちょう|Behörde
+6|座|すわ。る|ざ|sich setzen,Sitz
+6|延|の。びる,の。ばす|えん|verlängern
+6|律||りつ|Gesetz,Rhythmus
+6|従|したが。う,したが。える|じゅう|folgen,begleitet werden
+6|忘|わす。れる|ぼう|vergessen
+6|忠||ちゅう|Treue,Loyalität
+6|恩||おん|Dankbarkeit
+6|憲||けん|Verfassung
+6|我|われ|が|Ich,eigen-,selbst-
+6|批||ひ|Kritik,Begutachtung
+6|承|うけたまわ。る|しょう|zu Ohren kommen,Einwilligung
+6|担|かつ。ぐ,みな。う|たん|eine Last tragen,auf sich nehmen
+6|拝|おが。む|はい|anbeten,verehren
+6|拡||かく|Erweiterung
+6|捨|す。てる|しゃ|wegwerfen
+6|探|さが。す|たん|suchen
+6|推|お。す|すい|folgen,vorschlagen
+6|揮||き|Kommando
+6|操|あやつ。る|そう|manipulieren
+6|敬|うやま。う|けい|respektvoll
+6|敵|かたき|てき|Feind
+6|映|うつ。る,うつ。す|えい|projizieren,glänzen
+6|晩||ばん|Abend
+6|暖|あたた。まる,あたた。める,あたた。かい|だん|warm werden,erwärmen,warm
+6|暮|く。れる,く。らす|ぼ|dunkel werden,leben
+6|朗|ほが。らか|ろう|heiter,fröhlich
+6|机|つくえ|き|Schreibtisch
+6|枚||まい|Zählsuffix für dünne,flache Gegenstände
+6|染|そ。まる,そ。める,し。みる|せん|färben,einsickern
+6|株|かぶ||Aktie
+6|棒||ぼう|Stange
+6|模||も,ぼ|Modell,imitieren
+6|権||けん,ごん|Recht,Autorität
+6|樹||じゅ|Baum
+6|欲|ほっ。する|よく|wollen,Habgier
+6|段||だん|Stufe,Treppe
+6|沿|そ。う|えん|längs laufen,entlang
+6|泉|いずみ|せん|Quelle,Brunnen
+6|洗|あら。う|せん|waschen
+6|派||は|Sekte,Fraktion
+6|済|す。む,す。ます|さい|zu Ende gehen,erledigen
+6|源|みなもと|げん|Quelle
+6|潮|しお|ちょう|Gezeiten,Meeresströmungen
+6|激|はげ。しい|げき|heftig
+6|灰|はい|かい|Asche
+6|熟|う。れる|じゅく|reifen
+6|片|かた|へん|einseitig
+6|班||はん|Truppe,Gruppe anführen
+6|異|こと|い|sich unterscheiden
+6|疑|うたが。う|ぎ|zweifeln,verdächtigen,pseudo-
+6|痛|いた。む,いた。める,いた。い|つう|Schmerzen haben,Schmerzen zufügen
+6|皇||こう,おう|Kaiser
+6|盛|さか。る,も。る|せい|gedeihen,füllen
+6|盟||めい|Bündnis
+6|看||かん|(nach jemandem) suchen
+6|砂|すな|しゃ,さ|San
+6|磁||じ|Magnet,Porzellan
+6|私|わたし|し|ich,meinn,privat
+6|秘|ひ。める|ひ|geheimhalten
+6|穀||こく|Getreide
+6|穴|あな|けつ|Loch,Höhle
+6|窓|まど|そう|Fenster
+6|筋|すじ|きん|Logik,Muskel
+6|策||さく|Maßnahme
+6|簡||かん|einfach
+6|糖||とう|Zucker
+6|系||けい|System,Abstammung
+6|紅|くれない,べに|こう|dunkelrot
+6|納|おさ。まる,おさ。める|のう|hineingehen,in Empfang nehmen
+6|純||じゅん|rein
+6|絹|きぬ|けん|Seide
+6|縦|たて|じゅう|senkrecht
+6|縮|ちぢ。む,ちぢ。める|しゅく|schrumpfen,verkürzen
+6|署||しょ|Amt
+6|翌||よく|nächstes Mal
+6|聖||せい|heilig
+6|肺||はい|Lunge
+6|胃|い||Magen
+6|背|そむ。く,そむ。ける,せ|はい|auflehnen gegen,abwenden,Rücken
+6|胸|むね|きょう|Brust
+6|脳||のう|Gehirn
+6|腸||ちょう|Darm
+6|腹|はら|ふく|Bauch
+6|臓||ぞう|innere Organe
+6|臨|のぞ。む|りん|angehen
+6|至|いた。る|し|ankommen,erreichen,führen zu
+6|舌|した|ぜつ|Zunge
+6|若|わか。い|じゃく|jung
+6|著|あらわ。す,いちじる。し|ちょ|veröffentlichen,bedeutend
+6|蒸|む。す|じょう|dämpfen
+6|蔵|くら|ぞう|Speicher,aufbewahren
+6|蚕|かいこ|さん|Seidenraupe
+6|衆||しゅう|Masse,Menge
+6|裁|さば。く,た。つ|さい|Urteil fällen,Kleider zuschneiden
+6|装|よそお。う|そう,しょう|sich verkleiden,schminken
+6|裏|うら|り|Rückseite
+6|補|おぎな。う|ほ|ergänzen
+6|視|し||Blickfeld
+6|覧||らん|zur Ansicht
+6|討|う。つ|とう|angreifen,diskutieren
+6|訪|たず。ねる,おとず。れる|ほう|besuchen
+6|訳|わけ|やく|Übersetzung
+6|詞||し|Satzbausteine,Wörter
+6|誌||し|Aufschrieb,Zeitschrift
+6|認|みと。める|にん|anerkennen,genehmigen
+6|誕||たん|Geburt
+6|誠|まこと|せい|Aufrichtigkeit
+6|誤|あやま。る|ご|Fehler machen
+6|論||ろん|These,Aufsatz
+6|諸||しょ|einige,verschiedene
+6|警||けい|(ver)warnen
+6|貴|たっと。い|き|edel,Sie,Ihr
+6|賃||ちん|Gebühr,Gehalt
+6|退|しりぞ。く,しりぞ。ける|たい|sich zurückziehen,zurücktreiben
+6|遺|い|ゆい|vererben,hinterlassen
+6|郵||ゆう|Post
+6|郷||きょう,ごう|Heimat,Provinz
+6|針|はり|しん|Nadel
+6|銭|ぜに|せん,1/100|Yen
+6|鋼|はがね|こう|Stahl
+6|閉|と。じる,と。ざす,し。まる,し。める|へい|schließen
+6|閣||かく|Regierungskabinett
+6|降|お。りる,お。ろす,ふ。る|こう|runtergehen,-steigen,regnen
+6|陛||へい|seine Majestät
+6|除|のぞ。く|じょ|beseitigen,ausschließen
+6|障|さわ。る|しょう|verhindern,kränken
+6|難|むずか。しい,かた。い|なん|schwierig
+6|革|かわ|かく|Leder,Reform
+6|頂|いただ。く,いただき|ちょう|von Höhergestellten bekommen,Spitze
+6|預|あず。かる,あず。ける|よ|aufbewahren,avertrauen
+6|骨|ほね|こつ|Knochen,Skelett
+7|且|か。つ||zusätzlich
+7|丘|おか|きゅう|Hügel
+7|乙||おつ|zweitklassig,fein
+7|乾|かわ。く,かわ。かす|かん|trocknen
+7|互|たが。い|ご|gegenseitig
+7|亜||あ|Asien,untergeordnet
+7|享||きょう|Genuß
+7|介||かい|dazwischen (sein),einmischen
+7|仰|あお。ぐ,おお。せ|ぎょう|nach oben blicken,achten
+7|企|くわだ。てる|き|unternehmen,planen
+7|佳||か|exzellent
+7|依||い|Abhängigkeit
+7|侯||こう|Fürst
+7|倹||けん|sparsam
+7|偉|えら。い|い|bedeutend,hervorragend
+7|偶||ぐう|zufällig
+7|偽|いつわ。る,にせ|ぎ|lügen,betrügen
+7|傑||けつ|herausragen
+7|催|もよお。す|さい|veranstalten
+7|債||さい|Schulden
+7|傾|かたむ。く,かたむ。ける|けい|sich neigen
+7|儀||ぎ|formal,Zeremonie
+7|克||こく|Überwindung
+7|兼|か。ねる|けん|gleichzeitig,Unfähigkeit
+7|冠|かんむり|かん|Krone
+7|凝|こ。る,こ。らす|ぎょう|sich versteifen,konzentrieren
+7|凶|きょう||Übel,Unglück
+7|凹||おう|konkav
+7|刈|か。る||abschneiden
+7|刑||けい|Strafe
+7|削|けず。る|さく|abholen
+7|剛||ごう|hart,fest
+7|剣|つるぎ|けん|Schwert
+7|剤||ざい|Mixtur,Medizin
+7|劾||がい|Verbrechen untersuchen
+7|勘||かん|Intuition,Sinn
+7|勧|すす。める|かん|ermutigen
+7|勲||くん|Verdienst(orden)
+7|却||きゃっく|Rückzug,Rückgabe
+7|卸|おろ。す||im Großhandel (ver)kaufen
+7|及|およ。ぶ|きゅう|erreichen,sowohl als auch
+7|叫|さけ。ぶ|きょう|schreien,rufen
+7|吉||きち,きつ|Glück
+7|吟||ぎん|singen
+7|含|ふく。む,ふく。める|がん|in den Mund nehmen,einschließen
+7|呉||ご|Land im alten China
+7|咲|さ。く||blühen
+7|哀|あわ。れむ|あい|Mitleid haben
+7|唆|そそのか。す|さ|verführen,aufwiegeln
+7|啓||けい|Offenbarung
+7|喚||かん|(Auf)Schrei
+7|喝||かつ|heiser
+7|喫||きつ|konsumieren
+7|嚇||かく|Einschüchterung
+7|圏||けん|Sphäre,Region
+7|坑||こう|Bergwerk
+7|垣|かき||Zaun
+7|堅|かた。い|けん|solide
+7|堪|た。える|かん|ertragen
+7|塊|かたまり|かい|Klumpen
+7|墾||こん|Urbarmachung
+7|壊|こわ。す,こわ。れる|かい|zerbrechen
+7|壱||いち|Aufzählungspunkt vglb. “römisch eins”
+7|奇||き|seltsam
+7|契|ちぎ。る|けい|versprechen
+7|奥|おく|おう|Inneres
+7|姻||いん|Heirat
+7|威||い|Ansehen,Autorität
+7|娯||ご|Vergnügen
+7|婚||こん|Heirat
+7|嫁|とつ。ぐ,よめ|か|heiraten,Braut
+7|嫌|きら。う|けん|Abneigung haben
+7|孔||こう|Loch
+7|孤||こ|Einsamkeit
+7|宜||ぎ|zweckmäßig,angemessen
+7|宰||さい|Führung,Aufsicht
+7|宴|えん||Bankett
+7|寛||かん|tolerant
+7|寡||か|allein
+7|尉||い|Offizier
+7|屈||くつ|sich biegen
+7|岳|たけ|がく|Berg
+7|峡||きょう|Schlucht
+7|巧|たく。み|こう|geschickt
+7|巨||きょ|riesig
+7|幻|まぼろし|げん|Vision,Halluzination
+7|幾|いく|き|wieviel?
+7|弦|つる|げん|Saite,Bogensehne
+7|弧||こ|Kreisbogen
+7|彩|いろど。る|さい|färben
+7|影|かげ|えい|Schatten
+7|御|おん|ご,ぎょ|höfliches Präfix
+7|忌|い。む,い。まわしい|き|verabscheuen,abscheulich
+7|怪|あや。しむ,あや。しい|かい|bezweifeln,zweifelhaft
+7|恐||おそ。れる,きょう|sich fürchten
+7|恒||こう|beständig,fortwährend
+7|恨|うら。む,うらめしい|こん|bedauern,grollen(d)
+7|恭|うやうや。しい|きょう|respektvoll
+7|恵|めぐ。む|けい,え|segnen,Gabe
+7|悔|く。やむ,くや。し|かい|bereuen,bedauerlich
+7|悟|さと。る|ご|verstehen
+7|患|わずら。う|かん|erkranken
+7|悦||えつ|Freude
+7|愚|おろ。か|ぐ|dumm
+7|慌|あわ。てる|こう|sich überstürzen
+7|慨||がい|bedauern
+7|慰|なぐさ。む,なぐさ。める|い|trösten
+7|慶||けい|Gratulation
+7|憩|いこ。う|けい|Pause machen
+7|憶||おく|Erinnerung
+7|憾||かん|bedauern
+7|懇|ねんご。ろ|こん|freundlich,vertraulich
+7|懐|なつか。しい|かい|sehnsüchtig,nostalgisch
+7|懸|か。かる,か。ける|けん|hängen
+7|戒|いまし。める|かい|ermahnen,Gebot
+7|戯|たわむ。れる|ぎ|spielen,necken
+7|扱|あつか。う||behandeln
+7|抗||こう|Widerstand
+7|押|お。す|おう|drücken,festhalten
+7|拐||かい|entführen
+7|拒|こば。む|きょ|ablehnen,Veto
+7|拘||こう|festnehmen
+7|拠||きょ,こ|abhängen von,Grundlage
+7|括||かつ|zusammenbinden
+7|拷||ごう|Folter
+7|挟|はさ。まる,はさ。む|きょう|enklemmen
+7|掘|ほ。る|くつ|graben
+7|掛|か。かる,か。ける||kosten,darüberlegen,aufhängen
+7|控|ひか。える|こう|sich zurückhalten,warten
+7|掲|かか。げる|けい|bekanntmachen,Flagge
+7|換|か。わる,か。える|かん|austauschen,umtauschen
+7|握|にぎ。る|あく|(er)greifen,fassen
+7|援||えん|Hilfe
+7|携|たずさ。わる|けい|sich beteiligen,in der Hand haben
+7|搾|しぼ。る|さく|auspressen
+7|撃|う。つ|げき|angreifen
+7|擬||ぎ|nachahmen
+7|攻|せ。める|こう|angreifen
+7|敢||かん|mutig
+7|斎||さい|sich innerlich reinigen,Zimmer
+7|斤||きん|Axt
+7|既|すで。に|き|bereits,vollendet,schon vergangen
+7|昆||こん|Wurm,Nachkommen
+7|暁|あかつき|ぎょう|Morgendämmerung
+7|暇|ひま|か|Freizeit
+7|更|ふ。ける,ふ。かす,さら|こう|spät werden,wieder
+7|朽|く。ちる|きゅう|verfaulen,vergehen
+7|枯|か。れる,か。らす|こ|verwelken,trocknen lassen
+7|架|か。かる,か。ける|か|aufhängen
+7|核||かく|Kern
+7|栽||さい|Pflanzen kultivieren
+7|桑|くわ|そう|Maulbeerbaum
+7|棄||き|aufgeben,ablegen
+7|棋||き|Shogi (jap. Schach)
+7|棺||かん|Sarg
+7|概||がい|allgemein,circa
+7|欧||おう|Europa
+7|欺|あざむ。く|ぎ|betrügen
+7|款||かん|Übereinkunft,Statut
+7|歓||かん|Vergnügen
+7|歳||さい|Jahr
+7|殴|なぐ。る|おう|schlagen
+7|殻|から|かく|Hülse,Schale
+7|汗|あせ|かん|Schweiß
+7|汚|よご。れる,よご。す,きたな。い|お|schmutzig machen,schmutzig
+7|江|え|こう|Bucht
+7|況||きょう|Zustand
+7|洪||こう|Überschwemmung
+7|浦|うら|ほ|Meeresarm
+7|涯||がい|Damm,durchgehend
+7|渇|かわ。く|かつ|trocknen,Durst
+7|渓||けい|Schlucht,Tal
+7|渦|うず|か|Strudel,Wirbel
+7|溝|みぞ|こう|Rinne,Abflußgraben
+7|滑|すべ。る,なめ。らか|かつ|ausrutschen,schlüpfrig
+7|炎|ほのお|えん|Flamme,Entzündung
+7|為||い|handeln,etwas tun
+7|煙|けむ。り|えん|Rauch
+7|犠||ぎ|Opfer
+7|狂|くる。う|きょう|verrückt werden
+7|狭|せま。い|きょう|eng
+7|献||けん|schenken,widmen
+7|猿|さる|えん|Affe
+7|獄||ごく|Gefängnis,Hölle
+7|獲|え。る|かく|zu fassen bekommen,fangen
+7|玄||げん|dunkel,tiefsinnig
+7|琴|こと|きん|japanische Harfe
+7|環||かん|Umgebung
+7|甘|あま。える,あま。やかす,あま。い|かん|verwöhnen (lassen),süß
+7|甲||こう,かん|erstrangig,Schildkrötenpanzer
+7|疫||えき|Epidemie
+7|皆|みな|かい|alle
+7|監||かん|Aufsicht
+7|矯|た。める|きょう|verbessern,geradebiegen
+7|砕|くだ。く,くだ。ける|さい|zertrümmern
+7|硬|かた。い|こう|hart
+7|碁||ご|Go (Brettspiel)
+7|祈|いの。る|き|beten
+7|禍||か|Unglück
+7|稲|いね|とう|Reispflanze
+7|稼|かせ。ぐ|か|Geld verdienen
+7|稿||こう|Manuskript
+7|穏|おだ。やか|おん|friedlich,sanft
+7|穫||かく|Ernte
+7|窮|きわ。まる,きわ。める|きゅう|enden,enden lassen
+7|箇||か|Sache,Gegenstand,Zählsuffix für abstrakte Dinge
+7|糾||きゅう|verwickeln
+7|索||さく|Suche
+7|紺||こん|kornblumenblau
+7|絞|し。まる,し。める,しぼ。る|こう|ausgedrückt werden,wringen,auspressen
+7|継|つ。ぐ|けい|nachfolgen
+7|維||い|Instandhaltung
+7|綱|つな|こう|Tau,Seil
+7|緊||きん|fest,gespannt
+7|緩|ゆうる。む,ゆる。める,ゆる。やか|かん|sich lockern,lose
+7|緯||い|Breitengrad
+7|縁|ふち|えん|Rand,Beziehung
+7|繰|る,く。る||spinnen,wiederholen
+7|缶||かん|Gefäß,Konservendose
+7|翁||おう|höfliche Anrede für alten Mann
+7|肝|きも|かん|Leber
+7|肩|かた|けん|Schulter
+7|肯||こう|Zustimmung
+7|脅|おびや。かす,おど。す|きょう|bedrohen
+7|脚|あし|きゃく|Standbein
+7|腰|こし|よう|Lende,Hüfte
+7|艦||かん|Kriegsschiff
+7|芋|いも||Kartoffel
+7|茎|くき|けい|Stengel,Stiel
+7|荒|あ。れる,あ。らす,あら。い|こう|verwüsten,wild,rasend
+7|菊||きく|Chrysantheme
+7|菌||きん|Bakterie
+7|菓||か|Süßigkeiten
+7|華|はな|か|Blume,China
+7|薫|かお。る|くん|duften
+7|虐|しいた。げる|ぎゃく|mißhandeln
+7|虚||きょ|nutzlos,leer
+7|虞|おそれ||Furcht
+7|蚊|か||Moskito
+7|蛍|ほたる|けい|Glühwürmchen
+7|衡||こう|Gleichgewicht
+7|褐||かつ|Erdfarbe
+7|襟|えり|きん|Kragen
+7|詐||さ|Lüge
+7|詠|よ。む|えい|Gedicht verwassen
+7|詰|つ。まる,つ。める|きつ|verstopft sein,in die Enge treiben
+7|該||がい|der/die/das betreffende
+7|誇|ほこ。る|こ|übertreiben,angeben
+7|謁||えつ|Audienz
+7|謙||けん|Bescheidenheit
+7|謹|つつし。む|きん|hochachten
+7|豪||ごう|Macht,mächtig
+7|貢|みつ。ぐ|こう|finanziellen Beitrag,leisten
+7|貫|つらぬ。く,かん||durchstechen,durchdringen
+7|賢|かしこ。い|けん|weise
+7|購||こう|Einkauf
+7|越|こ。す,こ。える|えつ|überschreiten
+7|距||きょ|Entfernung
+7|軌||き|Rad,Wagenspur
+7|軒|のき|けん|Gebäude,Zählsuffix für Gebäude
+7|較||かく|Vergleich
+7|載|の。る,の。せる|さい|auf Papier bringen,beladen
+7|輝|かがや。く|き|glänzen,leuchten
+7|轄||かつ|Bremskeil,Verwaltung
+7|込|こ。む,こ。める||sich drängen,vollbesetzt sein
+7|迎|むか。える|げい|entgegengehen,empfangen
+7|逸||いつ|abschweifen
+7|遇||ぐう|Treffen
+7|違|ちが。う|い|verschieden
+7|遣|つか。う,わ。す|けん|senden
+7|還||かん|Rückkehr
+7|郊||こう|Vorort
+7|郭||かく|Bordellviertel
+7|酵||こう|Gärung
+7|酷||こく|grausam,hart
+7|鉛|なまり|えん|Blei
+7|鋭|するど。い,えい||scharf
+7|錯||さく|durcheinander,vermischt
+7|鎖|くさり|さ|Kette
+7|鑑||かん|Spiegel,Reflektion
+7|閑||かん|Muße
+7|閲||えつ|Untersuchung
+7|陥|おちい。る,おとしい。れる|かん|in Schwierigkeiten geraten,in Schwierigkeiten bringen
+7|陰|かげ。る|いん|schattig werden,negativ
+7|隅|すみ|ぐう|Winkel,Ecke
+7|隔|へだ。たる,へだ。てる|かく|dazwischenlegen
+7|隠|かく。れる,かく。す|いん|sich zurückziehen,verstecken
+7|雅||が|Eleganz
+7|雇|やと。う|こ|jemanden anstellen
+7|靴|くつ|か|Schuhe
+7|韻||いん|Reim
+7|響|ひび。く|きょう|klingen,Nachhall
+7|項||こう|Sachpunkt
+7|頑||がん|eigensinnig,hartnäckig
+7|顕||けん|offensichtlich
+7|顧|かえり。みる|こ|zurückblicken
+7|飢|う。える|き|hungern
+7|餓||が|hungern
+7|駆|か。ける|く|galoppieren,antreiben
+7|騎||き|Reiten
+7|驚|おどろ。く,おどろ。かす|きょう|sich wundern,jemanden verwundern
+7|鬼|おに|き|Dämon
+7|魂|たましい|こん|Seele
+7|鯨|くじら|げい|Walfisch
+7|鶏|にわとり|けい|Huhn
+7|鼓|つづみ|こ|Trommel
+8|丈|たけ|じょう|(Körper)größe (ca. 3cm)
+8|丹||たん|rot
+8|亭||てい|Restaurant
+8|仙||せん|Einsiedler
+8|伸|の。びる,の。ばす|しん|länger werden,ausdehnen
+8|伺|うかが。う|し|sich erkundigen,befragen,besuchen
+8|但|ただ。し||aber,Vorbehalt
+8|侍|さむらい|じ|Samurai
+8|侵|おか。す|しん|in ein Land einfallen
+8|促|うなが。す||drängen,fordern
+8|俊||しゅん|hervorragend,herausragend
+8|俗||ぞく|Sitten und Gebräuche
+8|傘|かさ|さん|Schirm
+8|僧||そう|Mönch
+8|儒||じゅ|Konfuzianismus
+8|償|つぐな。う|しょう|entschädigen
+8|充|あ。てる|じゅう|zuweisen,füllen
+8|冗||じょう|überflüssig
+8|准||じゅん|quasi-,semi-
+8|刃|は|じん|Schneide,Klinge
+8|刺|さ。さる,さ。す|し|gestochen werden,stechen
+8|剰||じょう|Überschuß
+8|勅||ちょく|kaiserlicher Erlaß
+8|匠||しょう|Handwerker
+8|升|ます|しょう,1,8-|l Flasche
+8|卓||たく|hervorragen,Tisch
+8|占|し。める,うらな。う|せん|besitzen,wahrsagen
+8|即||そく|auf der Stelle,sofort
+8|双|ふた|そう|ein Paar,beide
+8|叔||しゅく|Onkel
+8|叙||じょ|Erzählung,Schilderung
+8|召|め。す|しょう|Höflichkeitsform für essen,trinken,usw.
+8|吹|ふ。く|すい|blasen,wehen
+8|呈||てい|Geschenk
+8|哲||てつ|Weisheit
+8|唇|くちびる|しん|Lippe
+8|喪|も|そう|Trauer
+8|嗣||し|Erbe
+8|嘆|なげ。く|たん|klagen,jammern
+8|嘱||しょく|anvertrauen,beauftragen
+8|囚||しゅう|Gefangener
+8|坪||つぼ|Flächenmaß (3.3 qm)
+8|執|と。る|しつ,しゅう|durchführen,hängen an
+8|堕||だ|Verfall,degenerieren
+8|堤|つつみ|てい|Deich
+8|塑||そ|modellieren
+8|塚|つか||Grabhügel,Erdhaufen
+8|塾||じゅく|Nachhilfe,Privatschule
+8|墜||つい|Absturz
+8|壇||だん|Podium
+8|壌||じょう|Erde
+8|壮||そう|kraftvoll
+8|奨|しょう||fördern,unterstützen
+8|奪|うば。う|だつ|rauben
+8|妥||だ|Zufriedenheit
+8|姓||せい,しょう|Familienname
+8|娠||しん|Schwangerschaft
+8|嫡||ちゃく|legitim
+8|嬢||じょう|Tochter
+8|宵|よい|しょう|früher Abend
+8|寂|さび。しい,さび|じゃく|einsam,verlassen
+8|寝|ね。る,ね。かす|しん|schlafen gehen,zum Schlafen bringen
+8|審||しん|Verhör
+8|寿|ことぶき|じゅ|langes Leben
+8|尋|たず。ねる|じん|(nach)fragen
+8|尚||しょう|noch mehr
+8|尽|つ。きる,つ。くす|じん|erschöpfen,aufbrauchen
+8|崇||すう|anbeten,verehren
+8|巡|めぐ。る|じゅん|herumreisen
+8|帝||てい|Kaiser
+8|帥||すい|kommandieren
+8|床|とこ,ゆか|しょう|Bett,Fußboden
+8|庶||しょ|viele Sorten
+8|廷||てい|Behörde,Gerichtshof
+8|弔|とむら。う|ちょう|Beileid bezeugen
+8|弾|はず。む,ひ。く,たま|だん|elastisch zurückspringen,Instrument spielen,Geschoß
+8|彫|ほ。る|ちょう|schnitzen
+8|彰||しょう|Ankündigung
+8|征||せい|Eroberung
+8|徐||じょ|herumschlendern,allmählich
+8|循||じゅん|sich im Kreis drehen
+8|徴||ちょう|Aufforderung,Anzeichen
+8|徹||てつ|durchdrungen
+8|怠|なま。ける,おこた。る|たい|faulenzen,vernachlässigen
+8|恥|はじ。る,はじ,はず。かしい|ち|sich schämen,Schande,schüchtern
+8|惜|お。しむ|せき|bedauern,bedauerlich
+8|惨|みじ。め|さん,ざん|armselig,elend
+8|惰||だ|Trägheit,Faulheit
+8|愁|うれ。い|しゅう|Kummer
+8|慈|いつく。しむ|じ|barmherzig
+8|慎|つつし。む|しん|zurückhalten
+8|憎|にく。む,にく。い|ぞう|hassen,widerwärtig
+8|懲|こ。りる,こ。らしめる|ちょう|aus Erfahrung lernen
+8|扇|おおぎ|せん|Fächer
+8|抄||しょう|Auszug,Extrakt
+8|択||たく|(Aus)wahl
+8|抵||てい|Widerstand leisten
+8|抽||ちゅう|herausziehen
+8|拓||たく|Urbarmachung
+8|拙||せつ|ungeschickt
+8|挑|いど。む|ちょう|herausfordern
+8|振|ふ。る|しん|schütteln,schwingen
+8|挿|さ。す,そう||einfügen
+8|捜|さが。す|そう|suchen
+8|据|す。える||etwas (auf)stellen,etwas legen
+8|掃|は。く|そう|kehren
+8|掌||しょう|verwalten,in der Hand haben
+8|措||そ|Maßnahme
+8|摂||せつ|stellvertretend
+8|摘|つ。む|てき|herausziehen
+8|撤||てつ|Abschaffung
+8|撮|と。る|さつ|fotografieren,Aufnahme
+8|擦|す。る,す。れる|さつ|sich aneinander reiben,reiben
+8|斉||せい|gleich,parallel
+8|斜|なな。め|しゃ|schräg,schief
+8|斥||せき|von sich fernhalten,ablehnen
+8|施|ほどこ。す|し,せ|spenden,durchführen
+8|旋||せん|sich drehen
+8|旨|むね|し|das Wesentliche,Sinn,wesentlich
+8|旬||じゅん,10-|Tage-Periode
+8|昇|のぼ。る|しょう|aufsteigen
+8|是||ぜ|ordnungsgemäß,gerecht
+8|晶||しょう|Kristall
+8|暫||ざん|eine Weile
+8|曹||そう|Kamerad
+8|替|か。わる,か。える|たい|(zwei Sachen) austauschen
+8|朕||ちん|Kaiser
+8|朱||しゅ|zinnoberrot
+8|杉|すぎ||Zeder
+8|析||せき|zerhacken,auseinandernehmen
+8|枢||すう|Achse,Drehpunkt
+8|柔|やわ。らか|じゅう,にゅう|sanft,weich
+8|栓||せん|Stöpsel,Pfropfen
+8|桟||さん|Holzgerüst
+8|棚|たな||Regal
+8|槽||そう|Wasserbehälter,Tank
+8|殉||じゅん|Märtyrer
+8|殊|こと|しゅ|insbesondere,Besonderheit
+8|殖|ふ。える,ふ。やす|しょく|sich vermehren
+8|汁|しる|じゅう|Suppe,Flüsigkeit
+8|沈|しず。む,しず。める|ちん|versinken
+8|沢|さわ|たく|Sumpf
+8|沼|ぬま|しょう|Sumpf
+8|泥|どろ|でい|Schlamm,Kot
+8|泰||たい|Ruhe,Frieden
+8|津|つ|しん|Flutwelle
+8|浄||じょう|Reinheit
+8|浸|ひた。る,ひた。す|しん|eintauchen,einweichen
+8|淑||しゅく|Anmutigkeit,Weiblichkeit
+8|淡|あわ。い|たん|matt,schwach
+8|渉||しょう|Überquerung
+8|渋|しぶ。る,しぶ。い|じゅう|sich zusammenziehen,zögern,herb
+8|湿|しめ。る,しめ。す|しつ|feucht/naß werden,naßmachen
+8|滝|たき||Wasserfall
+8|滞|とどこお。る|たい|stocken,sich verzögern
+8|滴|したた。る,しずく|てき|tropfen,Tropfen
+8|漆|うるし|しつ|Lack
+8|漬|つ。かる,つ。ける||eintauchen,eingelegt sein
+8|漸||ぜん|allmählich
+8|潜|もぐ。る,ひそ。む|せん|auftauchen,verbergen
+8|潤|うるお。う,うるお。す|じゅん|feucht werden,profitieren,beleuchten
+8|澄|す。む,す。ます|ちょう|sich aufklären,klar
+8|濁|にご。る,にご。す|だく|trüben
+8|濯||たく|waschen
+8|瀬|せ||Stromschnellen,Untiefe
+8|炊|た。く|すい|Reis kochen,Feuer anzünden
+8|焦|こ。げる,こ。がす,あせ。る,こ。がれる|しょう|anbrennen,beeilen,sich sehnen
+8|煮|に。える,に。る|しゃ|gekocht werden,kochen
+8|燥|そう||trocken
+8|爵||しゃく|Adelsrang
+8|牲||せい|Opfer
+8|狩|か。る,か。り|しゅう|jagen,Jagd
+8|獣|けもの|じゅう|Bestie
+8|珍|めずら。しい|ちん|selten
+8|珠||しゅ|Perle
+8|璽||じ|kaiserliches Siegel
+8|甚|はなはだ。しい|じん|außerordentlich
+8|畜||ちく|Stalltiere,Haustiere
+8|畝|せ|うね|Furche,gerippt
+8|畳|たたみ|じょう|Strohmatte,Tatami
+8|疎|うと。む,うと。い|そ|sich entfremden,unkundig
+8|疾||しつ|Krankheit,Schnelligkeit
+8|症||しょう|Krankheit
+8|痴||ち|Schwachsinn
+8|盾|たて|じゅん|Schutzschild
+8|眺|なが。める|ちょう|anschauen
+8|睡||すい|Schlaf
+8|瞬|またた。く|しゅん|blinzeln,Augenblick
+8|硝||しょう|Salpetersäure
+8|礁||しょう|Riff
+8|礎|いしずえ|そ|Fundament,Grundstein
+8|祉||し|Glück
+8|祥||しょう|gutes Omen
+8|禅||ぜん|Zen-Buddhismus
+8|秀|ひ。でる|しゅう|übertreffen,vortrefflich
+8|租||そ|Steuerabgabe
+8|秩||ちつ|Ordnung
+8|称||しょう|Titel,Name
+8|稚||ち|Kind
+8|窃||せつ|stehlen
+8|窒||ちつ|Erstickung
+8|端|はし,はた|たん|Karte
+8|籍||せき|Zugehörigkeit,Familienregister
+8|粋||すい|Auslese
+8|粗|あら。い|そ|grob,rauh
+8|粛||しゅく|Disziplinierung,Feierlichkeit
+8|粧||しょう|Schminke
+8|紫|むらさき|し|violett
+8|紳|しん||Gentlemen
+8|紹||。しょう|bekanntmachen
+8|緒||しょ,ちょ|Beginn
+8|締|し。まる,し。める|てい|sich schließen,schnüren,abschließen
+8|繊||せん|Textilfaser
+8|繕|う,つくろ。う|ぜん|flicken
+8|耐|た。える|たい|ertragen
+8|聴|き。く|ちょう|zuhören
+8|肖||しょう|Ähnlichkeit
+8|肢||し|Gliedmaßen
+8|胆||たん|Gallenblase
+8|胎||たい|Gebärmutter
+8|脂|あぶら|し|Fett
+8|脱|ぬ。ぐ,ぬ。がす|だつ|sich ausziehen,Auslassung
+8|臭|くさ。い|しゅう|stinkend
+8|致|いた。す|ち|Höflichkeitsform für “tun”
+8|舟|ふね|しゅう|(großes) Schiff
+8|艇||てい|Boot
+8|芝|しば||Rasen
+8|荘||そう|feierlich,Landhaus
+8|葬|ほうむ。る|そう|begraben
+8|蓄|たっくわ。える|ちく|Vorrat sammeln
+8|薦|すす。める|せん|empfehlen
+8|薪|たきぎ|しん|Brennholz
+8|藻|も|そう|Algen
+8|蛇|へび|じゃ,だ|Schlange
+8|衝||しょう|Zusammenstoß
+8|衰|おとろ。える|すい|schwächer werden
+8|衷||ちゅう|Innerstes
+8|袋|ふくろ|たい|Sack,Tüte
+8|襲|おそ。う|しゅう|überfallen
+8|触|さわ。る,ふ。れる|しょく|berühren
+8|訂||てい|Korrektur
+8|託||たく|Auftrag,Vertrag
+8|訟||しょう|Anklage
+8|訴|うった。える|そ|(an)klagen
+8|診|み。る|しん|untersuchen
+8|詔|みことのり|しょう|kaiserlicher Erlaß
+8|詳|くわ。しい|しょう|ausführlich
+8|誓|ちか。う,せい||schwören
+8|請|こ。う,う。ける|せい|bitten,erhalten
+8|諮|はか。る|し|sich beraten
+8|諾||だく|Einwilligung
+8|譲|ゆず。る|じょう|abtreten
+8|貞||てい|aufrichtig
+8|賊||ぞく|Räuber
+8|賜|たまわ。る|し|schenken,spenden
+8|贈|おく。る|ぞう|schenken
+8|赦||しゃ|Vergebung
+8|超|こ。す,こ。える|ちょう|überschreiten,Super-
+8|趣|おもむき|しゅ|Inhalt,Stimmung,Sinn
+8|跡|あと|せき|Überreste,Spuren
+8|跳|と。ぶ,は。ねる|ちょう|springen,hüpfen
+8|践||せん|praktisch
+8|軸||じく|Achse
+8|辛|から。い|しん|scharf
+8|辱|はずかし。める|じょく|entehren,Schande
+8|迅||じん|schnell
+8|逐||ちく|verfolgen,vertreiben
+8|逓||てい|Übermittlung,eins nach dem anderen
+8|逝|ゆ。く|せい|sterben,Tod
+8|逮||たい|Jagd
+8|遂|と。げる|すい|durchführen
+8|遅|おく。れる,おく。らす|ち|sich verspäten,spät
+8|遭|あ。う|そう|auf jemanden/etwas stoßen
+8|遮|さえぎ。る|しゃ|unterbrechen,hindern
+8|遵||じゅん|Gehorsam
+8|遷||せん|Versetzung
+8|邪||じゃ|böse
+8|邸||てい|Residenz
+8|酌||しゃく|eingießen
+8|酔|よ。う|すい|betrunken
+8|酢|す|さく|Essig
+8|酬|しゅう||Belohnung
+8|醜|みにく。い|しゅう|häßlich,schändlich
+8|醸||じょう|brauen
+8|釈||しゃく|Erklärung
+8|釣|つ。る||angeln
+8|銃||じゅう|Gewehr
+8|鋳|い。る|ちゅう|Gußeisen
+8|錠||じょう|Schlüsselschloß
+8|鍛|きた。える|たん|härten
+8|鎮|しず。まる,しず。める|ちん|beruhigen
+8|鐘|かね|しょう|Glocke
+8|阻|はば。む|そ|(ver)hindern
+8|陣||じん|Feldlager,Stellung
+8|陳||ちん|in eine Reihe gestellt
+8|随||ずい|(nach)folgen,begleiten
+8|隻||せき|eins von beiden,Zählsuffix für Schritte
+8|雌|めす|し|Weibchen (Tiere)
+8|需||じゅ|Nachfrage,Bedarf
+8|震|ふる。える|しん|zittern,Erdbeben
+8|霜|しも|そう|Frost
+8|飾|かざ。る|しょく|schmücken
+8|駄||だ|unnötig,unnütz
+8|駐||ちゅう|gegenwärtiger Aufenthaltsort
+8|騒|さわ。ぐ|そう|lärmen
+8|髄||ずい|(Knochen)Mark
+8|鮮|あざ。やか|せん|frisch
+9|与|あた。える|よ|geben,Versorgung
+9|丙||へい|drittklassig
+9|乏|とぼ。しい|ぼう|unzureichend
+9|了||りょう|Schluß
+9|伏|ふ。す,ふ。せる|ふく|sich niederwerfen
+9|伐||ばつ|angreifen,umhauen
+9|伯||はく|Senior
+9|伴|ともな。う|はん,ばん|begleiten
+9|併|あわ。せる|へい|zusammenschließen
+9|侮|あなど。る|ぶ|verachten
+9|俸||ほう|Lohn,Gehalt
+9|倒|たお。れる,たお。す|とう|fallen,fällen
+9|倣|なら。う|ほう|nachahmen
+9|倫||りん|Moral
+9|偏|かたよ。る|へん|sich neigen,einseitig
+9|傍|かたわ。ら|ぼう|von der Seite,neben
+9|僕||ぼく|ich (Männersprache),Diener
+9|僚||りょう|Beamter,Kollege
+9|免|まぬか。れる|めん|entkommen,befreit werden,Genehmigung
+9|冒|おか。す|ぼう|riskieren,befallen
+9|凍|こお。る,こご。える|とう|frieren
+9|凡||ぼん,はん|normal,mittelmäßig
+9|凸||とつ|konvex
+9|到||とう|Ankunft
+9|剖||ぼう|zerteilen
+9|劣|おと。る|れつ|unterlegen sein
+9|励|はげ。む,はげ。ます|れい|motiviert sein,anspornen
+9|募|つの。る|ぼ|an-,bewerben
+9|匹|ひき|ひつ|Zählsuffix für Tiere,ebenbürtig
+9|匿||とく|versteckt
+9|卑|いや。しむ,いや。しい|ひ|verachten,vulgär
+9|厄||やく|Unglück
+9|厘||りん|sehr klein
+9|又|また||wieder,noch eins
+9|吏||り|Beamter
+9|吐|は。く|と|spucken
+9|唐|から|とう|chinesisch,T’ang Dynastie (China)
+9|唯||ゆい|einzig,nur
+9|噴|ふ。く|ふん|herausschleudern,ausstoßen
+9|坊||ぼう|Junge,Priester
+9|埋|う。まる,う。める|まい|begraben
+9|培|つちか。う|ばい|Pflanzen anbauen
+9|堀|ほり||Graben
+9|塀||へい|Mauer,Zaun
+9|塁||るい|Festung
+9|塔||とう|Turm
+9|塗|ぬ。る|と|(an)streichen,(an)malen
+9|墨|すみ|ぼく|Tinte,Tusche
+9|墳||ふん|Grabhügel
+9|壁|かべ|へき|Wand,Mauer
+9|奉|たてまつ。る|ほう|darbringen,opfern
+9|奔||ほん|rennen
+9|奴||ど|Sklave,Kerl
+9|如||にょう,じょ|gleich
+9|妃||ひ|Königin
+9|妄||もう,ぼう|Wahn
+9|妊||にん|Schwangerschaft
+9|妙||みょう|seltsam
+9|妨|さまた。げる,。ぼう||stören
+9|姫|ひめ||Prinzessin
+9|娘|むすめ||Tochter
+9|婆||ば|alte Frau
+9|婿|むこ|せい|Schwiegersohn
+9|媒||ばい|dazwischen liegen
+9|寧||ねい|behutsam
+9|寮||りょう|Wohnheim,Unterkunft
+9|封||ふう,ほう|versiegelt
+9|尼|あま|に|Nonne
+9|尾|お|び|Schwanz
+9|尿||にょう|Harn,Urin
+9|履|は。く|り|Schuhe anziehen
+9|屯||とん|Kaserne,Lagerplatz
+9|岬|みさき||Kap
+9|峠|とうげ||Bergpaß
+9|峰|みね|ほう|Gipfel
+9|崩|くず。れる,くず。す|ほう|zusammenbrechen,niederreißen
+9|帆||ほ,はん|Segel
+9|帽||ぼう|Hut
+9|幅|はば|ふく|Breite
+9|幣||へい|Papiergeld
+9|幽|ゆう||unergründlich
+9|庸||よう|Mittelweg
+9|廃|すた。れる|はい|veralten,verkrüppeln,abschaffen
+9|廉||れん|unbestechlich,billig
+9|廊||ろう|Korridor
+9|弊||へい|ungut
+9|弐||に|Aufzählungspunkt vglb. “römisch zwei”
+9|彼|かれ|ひ|er (Pronomen),jene
+9|微||び|winzig
+9|忍|しの。ぶ|にん|verstecken,ertragen,erleiden
+9|忙|いそが。しい|ぼう|beschäftigt
+9|怒|おこ。る,いか。る|どう|wütend sein
+9|怖|こわ。い|ふ|unheimlich,ängstlich
+9|恋|こ。う,こい。しい|れん|verliebt sein,geliebt
+9|悠||ゆう|gemächlich
+9|悩|なや。む,なや。ます|のう|leiden,belästigen
+9|悼|いた。む|とう|betrauern
+9|惑|まど。う|わく|vom Wege abkommen,verlegen sein
+9|愉||ゆ|Freude,Vergnügen
+9|慕|した。う|ぼ|sich sehnen
+9|慢||まん|angeberisch,nachlässig
+9|慮||りょ|Einfühlungsvermögen
+9|憂|うれ。える,うれ。い|ゆう|klagen,Besorgnis
+9|憤|いきどお。る|ふん|ärgerlich werden,zornig werden
+9|戻|もど。る,もど。す||zurückkehren
+9|房|ふさ|ぼう|Franse,Raum
+9|扉|とびら|ひ|offene Tür
+9|払|はら。う|ふつ|bezahlen
+9|扶||ふ|Unterhalt
+9|把||は|ergreifen,Bündel
+9|抑|おさ。える|よく|unterdrücken
+9|抜|ぬ。ける,ぬ。く|ばつ|herausziehen,zurücklassen
+9|披||ひ|Eröffnung
+9|抱|だ。く,かか。える|ほう|umarmen,im Arm tragen
+9|抹||まつ|auslöschen,pulverisieren
+9|拍||ひょう,はく|klatschen
+9|捕|つか。まる,つか。まえる,と。る|ほ|festgenommen werden,fangen
+9|排||はい|ausstoßen,ablehnen
+9|描|えが。く|びょう|skizzieren,malen
+9|揚|あ。がる,あ。げる|よう|aufsteigen,anheben
+9|揺|ゆ。れる|よう|zittern
+9|搬||はん|tragen,transportieren
+9|搭||とう|einsteigen,aufladen
+9|摩||ま|reiben,kratzen
+9|撲||ぼく|schlagen
+9|擁||よう|unter die Arme greifen
+9|敏|びん||flink
+9|敷|し。く|ふ|ausbreiten
+9|斗||と,18-|Liter-Eimer
+9|普||ふ|allgemein
+9|暦|こよみ|れき|Kalender
+9|曇|くも。る|どん|sich bewölken
+9|朴|ぼく||schlicht
+9|杯|さかずき|はい|Becher,Zählsuffix für Gläser
+9|枠|わく||Rahmen
+9|柄|がら|へい|Charakter,Griff,Stiel
+9|某||ぼう|ein gewisses
+9|柳|やなぎ|りゅう|Weide
+9|桃|もも|とう|Pfirsich
+9|棟|むね|とう|Dachbalken
+9|楼||ろう|Turm
+9|欄||らん|Spalte
+9|殿|との,どの|でん,だん|mein Fürst,Palast
+9|没||ぼつ|untergehen,versinken
+9|沸|わ。く,わ。かす|ふつ|(Wasser)kochen,aufkochen
+9|泊|と。まる,と。める|はく|übernachen (-lassen)
+9|泌||ひつ,ひ|Sekret
+9|泡|あわ|ほう|Blase,Schaum
+9|洞|ほら|どう|Höhle
+9|浜|はま|ひん|Strand
+9|浪||ろう|(herum)treiben,Wellen
+9|浮|う。く,う。かれる|ふ|schweben,gelöst sein
+9|涙|なみだ|るい|Träne
+9|涼|すず。む,すず。しい|りょう|sich erfrischen,kühl
+9|添|そ。う,そ。える|てん|hinzufügen
+9|渡|わた。る,わた。す|と|überqueren,übergeben
+9|湾||わん|Bucht
+9|溶|と。ける,と。かす|よう|schmelzen
+9|滅|ほろ。びる,ほろ。ぼす|めつ|untergehen,vernichten
+9|漂|ただよ。う|ひょう|dahintreiben
+9|漏|も。る,も。らす|ろう|auslaufen,durchkommen,durchlassen
+9|漠||ばく|Wüste,Vage
+9|漫||まん|Ziellosigkeit
+9|濃|こ。い|のう|dicht,konzentriert
+9|濫||らん|überschwemmen,übermäßig
+9|炉||ろ|Ofen,Herd
+9|烈||れつ|heftig
+9|煩|わずら。う,わずら。わす|はん|sich sorgen um,jemanden beruhigen
+9|爆||ばく|Explosion
+9|猛||もう|heftig
+9|猟||りょう|Jagd
+9|猫|ねこ|びょう|Katze
+9|猶||ゆう|Verzögerung
+9|瓶||びん|Flasche
+9|畔||はん|Bewässerungsdämme in den Reisfeldern
+9|疲|つか。れる|ひ|müde werden
+9|痘||とう|Pocken
+9|痢||り|Durchfall
+9|療||りょう|Behandlung
+9|癒||ゆ|heilen
+9|癖|くせ|へき|(schlechte) Angewohnheit
+9|盆||ぼん|Tablett,Fest zu Ehre der Verstorbenen
+9|盗|ぬす。む|とう|stehlen
+9|盤||ばん|Spielbrett,Platte
+9|盲|めくら|もう|blind
+9|眠|ねむ。る,ねむ。い|みん|schlafen,schläfrig
+9|督||とく|überwachen,befehligen
+9|矛|ほこ|む|Speer
+9|砲||ほう|Kanone
+9|硫||りゅう|Schwefel
+9|碑||ひ|Grabstein
+9|磨|みが。く|ま|polieren
+9|穂|ほ|すい|Ähre
+9|突|つ。く|とつ|stoßen,stechen
+9|窯|かま|よう|Brennofen
+9|竜|たつ|りゅう|Drache
+9|符||ふ|Talismann,Zeichnen
+9|筒|つつ|とう|Röhre
+9|範||はん|Muster,Grenze
+9|篤||とく|ernsthaft,herzlich
+9|簿||ぼ|Register,Notizbuch
+9|粒|つぶ|りゅう|Korn
+9|粘|ねば。る|ねん|kleben,zäh
+9|糧|かて|りょう|Nahrung
+9|紋||もん|Wappen,Muster
+9|紛|まぎ。れる,まぎ。らわす,まぎ。らわしい|ふん|zerstreuen,zweideutig
+9|紡|つむ。ぐ|ぼう|spinnen
+9|累||るい|Anhäufung,Abfolge
+9|絡|から。まる,から。む|らく|sich verwickeln,verbinden
+9|網|あみ|もう|Netz
+9|縛|しば。る,ばく||(an)binden
+9|縫|ぬ。う|ほう|nähen
+9|繁||はん|Luxus
+9|繭|まゆ|けん|Kokon
+9|罰||ばつ,ばち|Strafe
+9|罷||ひ|beenden
+9|羅||ら|dünne Seide
+9|翻|ひるがえ。る,ひるがえ。す|ほん|flatterhaft sein
+9|翼|つばさ|よく|Flügel
+9|耗||もう|Abnutzung
+9|肌|はだ||Haut
+9|肪||ぼう|Fett
+9|胞||ほう|Zelle,Schutzhülle
+9|胴||どう|(Körper)rumpf
+9|腐|くさ。る,くさ。らす|ふ|verfaulen,verfaulen lassen
+9|腕|うで|わん|Arm,Geschicklichkeit
+9|膚||ふ|Haut
+9|膜||まく|Membrane
+9|膨|ふく。らむ|ぼう|anschwellen
+9|舗||ほ|Pflasterung,Geschäft
+9|舞|ま。う|ぶ|tanzen
+9|般||はん|allgemein
+9|舶||はく|Schiff
+9|芳|かんば。しい|ほう|duftend
+9|苗|なえ|びょう|Setzling
+9|茂|しげ。る|も|dicht wachsen
+9|薄|うす。い|はく|dünn
+9|藩||はん|feudales Herrschaftsgebiet
+9|虜||りょ|Gefangener
+9|蛮||ばん|barbarisch
+9|融||ゆう|schmelzen
+9|被|こうむ。る|ひ|etwas erleiden
+9|裂|さ。く,さ。ける|れつ|zerreißen
+9|裕||ゆう|Überfluß
+9|裸|はだか|ら|nackt
+9|褒|ほ。める|ほう|loben
+9|覆|おお。う,くつがえ。る,くつがえ。す|ふく|bedecken,(um)stürzen
+9|覇||は|Vorherrschaft
+9|誉|ほま。れ|よう|Ruhm,Ehre
+9|誘|さそ。う|ゆう|einladen,verführen
+9|諭|さと。す|ゆ|ermahnen
+9|謀|はか。る|ぼう|Intrige spinnen
+9|謄||とう|Kopie
+9|謡|うた。う|よう|singen
+9|譜||ふ|Noten,Stammbaum
+9|豚|ぶた|とん|Schwein
+9|販||はん|Verkauf
+9|賄|まかな。う|わい|Bestechung
+9|賓||ひん|Gast
+9|賠||ばい|Entschädigung
+9|賦||ふ|Tribut
+9|赴|おもむ。く|ふ|seinen Weg gehen
+9|踊|おど。る|よう|tanzen
+9|踏|ふ。む,ふ。まえる|とう|(darauf)treten
+9|躍|おど。る|やく|hüpfen
+9|軟|やわ。らか|なん|weich
+9|輩||はい|Altersstufe,Kamerad
+9|迫|せま。る|はく|(be)drängen,näherrücken
+9|迭||てつ|Abwechslung
+9|逃|に。げる,に。がす|とう|fliehen,freigeben
+9|透|く,す。く,す。かす|とう|durchsehen,durchscheinen
+9|途||と|unterwegs
+9|遍||へん|ausgedehnt,überall
+9|避|さ。ける|ひ|(ver)meiden,ausweichen
+9|邦||ほう|Staat,japan
+9|郎||ろう|männlicher Vorname (Suffix)
+9|酪||らく|Milchprodukt
+9|鈍|にぶ。る,にぶ。い|どん|stumpf werden,stumpf
+9|鈴|すず|れい,りん|Glöckchen
+9|鉢||はち|Schüssel
+9|銘||めい|Inschrift
+9|錬||れん|härten
+9|閥||ばつ|Clique
+9|闘|たたか。う|とう|kämpfen
+9|附||ふ|Anhängsel,Begleitung
+9|陪||ばい|Begleitung
+9|陵|みささぎ|りょう|kaiserliches Grab
+9|陶||とう|Porzellan
+9|隆||りゅう|hoch,Blützezeit
+9|隣|となり|りん|Nachbar
+9|隷||れい|Sklave
+9|雄|おす|ゆう|Männchen (Tiere)
+9|離|はな。れる,はな。す|り|sich trennen
+9|雰||ふん|Nebel
+9|零||れい|Null
+9|雷|かみなり|らい|Gewitter
+9|霊|たま|れい,りょう|Seele,Geist der Verstorbenen
+9|霧|きり|む|Nebel
+9|露|つゆ|ろ|Tau,ungeschützt,Russland
+9|頒||はん|verteilen
+9|頻||ひん|häufig
+9|頼|たの。む,たよ。る|らい|anfragen,sicher verlassen auf
+9|飽|あ。きる,あ。かす|ほう|etwas satt haben,übersättigen
+9|騰||とう|Preisanstieg
+9|髪|かみ|はつ|Haar
+9|魅||み|Reiz,Faszination
+9|魔||ま|böser Geist
+9|麗|うるわ。しい|れい|hübsch
+9|麻|あさ|ま|Hanf,Droge
+9|黙|だま。る|もく|schweigen
+9|齢||れい|Alter
+10|誰|だれ||wer?
+4|埼|さい Saitama
+4|奈|な||was,wie,Nara
+4|媛|えん||Prinzessin,Ehime-ken
+4|岡|おか||Hügel,Okayama-ken
+4|栃|とち||Rosskastanie,Tochigi-ken
+4|梨|なし||Birne,Yamanashi-ken
+4|熊|くま||Bär,Kumamoto-ken
+4|茨|いばら||Dorn,Ibaraki-ken
+4|阜||ふ|Hügel,Gifu-ken
+4|阪|さか|はん|Damm,Osaka
+4|鹿|しか|か|Reh,Kagoshima-ken
+8|偵||てい|ausspähen
+10|塡||てん|füllen
+10|剝|は。がす,は。ぐ,は。がれる,は。げる|はく|ablösen,abkratzen
+10|頰|ほお||Backe
+10|怨||えん,おん|böse sein
+10|鬱||うつ|niedergeschlagen,betrübt sein
+10|唄|うた||Ballade, Volkslied
+10|淫|みだ。ら|いん|Wollust,Lüsternheit
+10|咽||いん|keine Luft mehr bekommen,würgen
+10|彙||い|Art,Sorte
+10|椅||い|Stuhl,Sitz
+10|萎|な。える|い|abgetragen,geschwächt
+10|畏|おそ。れる|い|fürchten,erschrecken
+10|嵐|あらし||Unruhen,Unwetter
+10|宛|あ。てる||adressieren an
+10|顎|あご|がく|Kinn
+10|曖||あい|dunkel,vage
+10|挨||あい|(er)öffnen
+10|韓||かん|Südkorea
+10|鎌|かま||Kamakura
+10|葛|くず|かつ|Ranke,Knabenkraut
+10|骸||がい|Körper,Leichnam
+10|蓋|ふた|がい|Deckel
+10|崖|がけ|がい|Abhang
+10|諧||かい|Humor
+10|潰|つぶ。す,つぶ。れる|かい|zerbrechen
+10|瓦|かわら|が|Dachziegel
+10|牙|きば|が,げ|Eckzahn
+10|苛||か|aggressiv,brutal
+10|俺|おれ||ich (Männersprache)
+10|臆||おく|Furcht,Vermutung
+10|旺||おう|blühen
+10|艶|つや|えん|Glanz,Anmut
+10|稽||けい|Übung
+10|憬||けい|Sehnsucht
+10|詣|もう。でる|けい|Tempel besuchen
+10|窟||くつ|Höhle,Grotte
+10|串|くし||(Fleisch)Spieß
+10|惧||ぐ|Angst
+10|錦|にしき|きん|Brokatgewebe
+10|僅|わず。か|きん|wenig
+10|巾||きん|Saite,Tuch
+10|嗅|か。ぐ|きゅう|riechen,schnüffeln
+10|臼|うす|きゅう|Handmühle
+10|畿||き|Hauptstadt
+10|亀|かめ|き|Schildkröte
+10|伎||き|Fähigkeit
+10|玩||がん|spielen
+10|挫||ざ|verstauchen
+10|沙||さ|Sand
+10|痕|あと|こん|Narbe,Überreste,Spur
+10|頃|ころ||ungefähr
+10|駒|こま||Fohlen,Pferd
+10|傲||ごう|hochmütig
+10|乞|こ。う||anflehen
+10|喉|のど|こう|Hals,Kehle
+10|梗||こう|verstopfen
+10|虎|とら|こ|Tiger
+10|股|また|こ|Gabelung
+10|舷||げん|Schiffsseite,Schiffsrand
+10|鍵|かぎ|けん|Schlüssel
+10|拳|こぶし|けん|Faust
+10|桁|けた|Stelle (einer Zahl)
+10|隙|すき|げき|Ritze,Spalt
+10|呪|のろ。う|じゅ|Fluch
+10|腫|は。れる,は。らす|しゅ|anschwellen,Geschwür
+10|嫉||しつ|Eifersucht
+10|叱|しか。る|しつ|schelten,schimpfen
+10|餌|えさ,え|じ|Beute
+10|摯||し|aufrichtig
+10|恣||し|Willkür
+10|斬|き。る|ざん|töten (mit einem Schwert)
+10|拶||さつ|Begrüßung
+10|刹||せつ,さつ|Augenblick
+10|柵||さく|Zaun
+10|塞|ふさ。ぐ,ふさ。がる|さい,そく|verstopfen,schließen
+10|采|||さい|Beifall,Verlobung
+10|戚||せき|Verwandtschaft
+10|脊||せき|Rücken,Wirbelsäule
+10|醒||せい|aufwecken
+10|凄||せい|fürchterlich
+10|裾|すそ|Saum
+10|須||す|notwendig
+10|腎||じん|Niere
+10|芯||しん|Docht
+10|尻|しり|Gesäß,Boden
+10|拭|ふ。く,ぬぐ。う|しょく|(ab)wischen
+10|憧|あこが。れる|しょう|Sehnsucht
+10|蹴|け。る|しゅう|treten
+10|羞||しゅう|schämen
+10|袖|そで|しゅう|Ärmel
+10|汰||た|ausspülen,aussondern
+10|遜||そん|bescheiden
+10|捉|とら。える|そく|ergreifen
+10|踪||そう|Spur,Fußspuren
+10|痩|や。せる|そう|abnehmen,Schlankheit
+10|爽|さわ。やか|そう|frisch,heiter,klar
+10|遡|さかのぼ-る|そ|gegen den Strom fahren,zurück verfolgen
+10|狙|ねら。う|そ|zielen,beabsichtigen
+10|膳||ぜん|Tablett,Essen
+10|箋||せん|Zettel
+10|詮||せん|Untersuchung
+10|腺||せん|Drüse
+10|煎|い。る|せん|rösten
+10|羨|うらや。む,うらや。ましい|せん|beneiden
+10|鶴|つる||Kranich
+10|爪|つめ||(Finger,Zehen)Nagel
+10|椎||つい|Wirbel
+10|捗||ちょっく|Fortschritt
+10|嘲|あざけ。る|ちょう|Hohn,Spott
+10|貼|は。る|ちょう|kleben,befestigen
+10|酎||ちゅう|Shouchuu
+10|緻||ち|exakt,fein
+10|綻|ほころ。びる|たん|aufgehen
+10|旦||たん,だん|(der) Morgen
+10|戴||たい|empfangen
+10|堆||たい|Anhäufung,Stapel
+10|唾|つば|だ|Speichel
+10|鍋|なべ||Topf
+10|謎|なぞ||Rätsel
+10|那|な||Naha (Hauptstadt von Okinawa)
+10|丼|どんぶり||Don (Mahlzeit)
+10|貪|むさぼ。る|どん|Gier
+10|頓||とん|plötzlich
+10|瞳|ひとみ|どう|Pupille
+10|藤|ふじ|とう|Japanische Glyzinie
+10|賭|か。ける|と|(Wett)Einsatz
+10|妬|ねた。む|と|Neid
+10|溺|おぼ。れる|でき|ertrinken
+10|諦|あきら。める|てい|aufgeben
+10|訃||ふ|Todesnachricht
+10|肘|ひじ||Ellbogen
+10|膝|ひざ||Knie
+10|眉|まゆ|び|Augenbraue
+10|斑||はん|Fleck
+10|汎||はん|allgemein,Pan-
+10|氾||はん|überschwemmt,Hochwasser
+10|箸|はし||Essstäbchen
+10|罵|ののし。る|ば|beschimpfen
+10|捻||ねん|Verdrehung
+10|虹|にじ||Regenbogen
+10|匂|にお。う||Geruch
+10|喩||ゆ|Gleichnis
+10|闇|やみ||Dunkelheit,Schwarzmarkt
+10|弥|や||Protestruf,Buhruf
+10|冶||や|Metallurgie
+10|麺||めん|Nudeln
+10|冥||みょう,めい|dunkel
+10|蜜||みつ|Honig
+10|枕|まくら||Kopfkissen
+10|昧||まい|Undeutlichkeit,Unklarheit
+10|勃||ぼつ|energisch
+10|貌||ぼう|Gestalt
+10|蜂|はち|ほう|Biene
+10|蔑|さげす。む|べつ|Verachtung
+10|璧||へき|perfekt,fehlerlos
+10|餅|もち|へい|Reiskuchen
+10|蔽||へい|verdecken
+10|脇|わき||Seite
+10|麓|ふもと|ろく|Fuß eines Berges
+10|籠|かご,こ。もる|ろう|gefüllt sein mit ...
+10|弄|もてあそ。ぶ|ろう|spielen mit ...
+10|呂||ろ|Rückgrat
+10|瑠||る|Lapislazuli
+10|瞭||りょう|klar,deutlich
+10|侶||りょ|Wegbegleiter,Weggefährte
+10|慄||りつ|Fürchten,Erschaudern
+10|璃||り|Lapislazuli
+10|藍|あい|らん|Indigo
+10|辣||らつ|klug,scharfsinnig
+10|拉||ら|Latein
+10|沃||よく|fruchtbar (Boden)
+10|瘍||よう|Geschwür,Tumor
+10|妖|あや。しい|よう|sonderbar,verdächtig
+10|湧|わ。く|ゆう|Hervorquellen,heraussprudeln
+10|柿|かき|Kaki (Frucht)
+10|哺||ほ|Säugetier,Stillen
+10|楷||かい|Kaisho-Schrift
+10|睦||ぼく|Freundschaft
+10|釜|かま||Kochtopf,Reistopf
+10|錮||こ|Gewahrsam,Einsperrung
+10|賂||ろ|Bestechung,Geschenk
+10|毀||き|zerstören,kaputt
+10|勾||こう|Fangen,Haft
+10|曽||そう|Ur... (Urenkel, Urgroßvater etc.)
