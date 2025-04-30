@@ -13,7 +13,7 @@ mit
 
 ## Lernkarten für Anki
 
-Kurze Sätze zum Lernen in beide Richtungen (Lesung -> Kanji und Kanji -> Lesung)
+Kurze Sätze zum Lernen in beide Richtungen (Lesung -> Kanji und Kanji -> Lesung). Derzeit nur für Klasse 1 (grade1) und Klasse 2 (grade 2).
 
 * Front und Back getrennt durch `TAB`
 * Das zu lernende Kanji steht zwischen `「` und `」`
