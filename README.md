@@ -24,8 +24,8 @@ Format: `SPACE Kanji [ Furigana ]`. Vor dem Kanji muss ein SPACE stehen, damit A
 
 ## Import in Anki
 
-a) Direktimport des Decks (tbd)
-b) Neues Deck anlegen und "File -> Import"
+* Direktimport des Decks (tbd)
+* Neues Deck anlegen und "File -> Import"
 
 Vorher: Neuen Kartentyp mit Furigana und Front->Back + Back->Front anlegen.
 
