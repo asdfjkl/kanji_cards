@@ -106,7 +106,7 @@
 2|古|ふる。い|こ|alt
 2|台||だい,たい|Gestell,Sockel,Größenordnung
 2|合|あ。う,あ。わす|ごう,が|(an)passen
-2|同|おな。じ|おづ|gleich
+2|同|おな。じ|どう|gleich
 2|回|まわ。る,まわ。す|かい|drehen,x-Mal
 2|図|はか。る||planen
 2|国|くに|こく|Land
